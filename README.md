@@ -5,7 +5,7 @@ This was my first "real" app that I created that could run on the iPhone, I had 
 
 > "Standing on the shoulders of giants"
 
-I used so many great resources while learning, some of the ones I can recall are `CRMotionView`, `ParallaxScrollingFramework`, `SLColorArt`, `Colours`. please look at the files in the code for more information about each of these great additions, also you can check out my stars.
+I used so many great resources while learning, some of the ones I can recall are `CRMotionView`, `ParallaxScrollingFramework`, `SLColorArt`, `Colours`.  Take a look at the files in the project for more information, also check out my stars.
 
 
 **Books, Sites and StackOverflow answers provided by the greats:**
