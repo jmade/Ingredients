@@ -1,0 +1,6015 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Acrylates/Copolymer/Ethylene Oxide</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>The Big Tease</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>The Big Tease</string>
+		</array>
+		<key>typeLabel</key>
+		<array/>
+	</dict>
+	<key>Aduki Beans</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Wiccy Magic Muscles</string>
+			<string>Mask Of Magnaminty</string>
+			<string>Buffy</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Wiccy Magic Muscles</string>
+			<string>Mask Of Magnaminty</string>
+			<string>Buffy</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Massage Bar</string>
+			<string>Face And Body Mask</string>
+			<string>Body Butter</string>
+		</array>
+	</dict>
+	<key>African Marigold Oil</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Mask Of Magnaminty</string>
+			<string>Ambrosia</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Mask Of Magnaminty</string>
+			<string>Ambrosia</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Face And Body Mask</string>
+			<string>Shaving Cream</string>
+		</array>
+	</dict>
+	<key>Agar Agar Gel</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Love Lettuce</string>
+			<string>Retread</string>
+			<string>Veganese</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Love Lettuce</string>
+			<string>Retread</string>
+			<string>Veganese</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Fresh Face Mask</string>
+			<string>Hair Conditioner</string>
+			<string>Hair Conditioner</string>
+		</array>
+	</dict>
+	<key>Alkanett Extract</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Helping Hands</string>
+			<string>Imperialis</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Helping Hands</string>
+			<string>Imperialis</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Hand Cream</string>
+			<string>Facial Moisturizer</string>
+		</array>
+	</dict>
+	<key>Almond Butter</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Aqua Mirabilis</string>
+			<string>Handy Gurugu</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Aqua Mirabilis</string>
+			<string>Handy Gurugu</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Body Butter</string>
+			<string>Hand Cream</string>
+		</array>
+	</dict>
+	<key>Almond Milk</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Happy Happy Joy Joy</string>
+			<string>Celestial</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Happy Happy Joy Joy</string>
+			<string>Celestial</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Hair Conditioner</string>
+			<string>Facial Moisturizer</string>
+		</array>
+	</dict>
+	<key>Almond Oil</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Ultrabland</string>
+			<string>Latte</string>
+			<string>Charity Pot</string>
+			<string>Fair Trade Foot Lotion</string>
+			<string>Enchanted Eye Cream</string>
+			<string>Ro&apos;s Argan Body Conditioner</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Ultrabland</string>
+			<string>Latte</string>
+			<string>Charity Pot</string>
+			<string>Fair Trade Foot Lotion</string>
+			<string>Enchanted Eye Cream</string>
+			<string>Ros Argan Body Conditioner</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Facial Cleanser</string>
+			<string>Lip Tint</string>
+			<string>Hand And Body Lotion</string>
+			<string>Foot Lotion</string>
+			<string>Eye Cream</string>
+			<string>Body Conditioner</string>
+		</array>
+	</dict>
+	<key>Aloe Vera</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Breath Of Fresh Air</string>
+			<string>Aqua Marina</string>
+			<string>Honey Bee</string>
+			<string>Honey I Washed The Kids</string>
+			<string>Grease Lightning</string>
+			<string>Skin Drink</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Breath Of Fresh Air</string>
+			<string>Aqua Marina</string>
+			<string>Honey Bee</string>
+			<string>Honey I Washed The Kids</string>
+			<string>Grease Lightning</string>
+			<string>Skin Drink</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Toner Water</string>
+			<string>Facial Cleanser</string>
+			<string>Bath Bomb</string>
+			<string>Hand And Body Soap</string>
+			<string>Spot Treatment</string>
+			<string>Facial Moisturizer</string>
+		</array>
+	</dict>
+	<key>Ammonium Acryloyldimethyltaurate/Beheneth-25 Methacrylate Crosspolymer</key>
+	<dict>
+		<key>displayName</key>
+		<array/>
+		<key>foundIn</key>
+		<array/>
+		<key>typeLabel</key>
+		<array>
+			<string>The Big Tease</string>
+		</array>
+	</dict>
+	<key>Ammonium Laureth Sulfate</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Curly Wurly</string>
+			<string>Blousey</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Curly Wurly</string>
+			<string>Blousey</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Shampoo</string>
+			<string>Shampoo</string>
+		</array>
+	</dict>
+	<key>Ammonium Lauryl Sulfate</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Rehab</string>
+			<string>I Love Juicy</string>
+			<string>Cynthia Sylvia Stout</string>
+			<string>Ultimate Shine</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Rehab</string>
+			<string>I Love Juicy</string>
+			<string>Cynthia Sylvia Stout</string>
+			<string>Ultimate Shine</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Shampoo</string>
+			<string>Shampoo</string>
+			<string>Shampoo</string>
+			<string>Solid Shampoo Bar</string>
+		</array>
+	</dict>
+	<key>Angelica</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Flying Fox</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Flying Fox</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Shower Gel</string>
+		</array>
+	</dict>
+	<key>Apple Juice</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Demon In The Dark</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Demon In The Dark</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Hand And Body Soap</string>
+		</array>
+	</dict>
+	<key>Apricot Oil</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Lip Service</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Lip Service</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Lip Balm</string>
+		</array>
+	</dict>
+	<key>Arame Seaweed</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Big Blue</string>
+			<string>Sea Vegetable</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Big Blue</string>
+			<string>Sea Vegetable</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Bath Bomb</string>
+			<string>Hand And Body Soap</string>
+		</array>
+	</dict>
+	<key>Arnica Montana Infusion</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Fair Trade Foot Lotion</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Fair Trade Foot Lotion</string>
+		</array>
+		<key>typeLabel</key>
+		<array/>
+	</dict>
+	<key>Avocado Butter</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Ocean Salt</string>
+			<string>Each Peach (And Two&apos;s A Pair)</string>
+			<string>You&apos;ve Been Mangoed</string>
+			<string>Curly Wurly</string>
+			<string>R&amp;B</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Ocean Salt</string>
+			<string>Each Peach (And Two&apos;s A Pair)</string>
+			<string>You&apos;ve Been Mangoed</string>
+			<string>Curly Wurly</string>
+			<string>R&amp;B</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Face And Body Scrub</string>
+			<string>Massage Bar</string>
+			<string>Bath Melt</string>
+			<string>Hair Moisturizer</string>
+		</array>
+	</dict>
+	<key>Avocado Oil</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Retread</string>
+			<string>Enzymion</string>
+			<string>Lemony Flutter</string>
+			<string>Lovely Jubblies</string>
+			<string>Dark Angels</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Retread</string>
+			<string>Enzymion</string>
+			<string>Lemony Flutter</string>
+			<string>Lovely Jubblies</string>
+			<string>Dark Angels</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Hair Conditioner</string>
+			<string>Facial Moisturizer</string>
+			<string>Cuticle Butter</string>
+			<string>Breast Cream</string>
+			<string>Facial Cleanser</string>
+		</array>
+	</dict>
+	<key>Balsamic Vinegar</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>H&apos;suan Wen Hua</string>
+			<string>Cynthia Sylvia Stout</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>H&apos;suan Wen Hua</string>
+			<string>Cynthia Sylvia Stout</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Hair Treatment</string>
+		</array>
+	</dict>
+	<key>Bamboo Leaf Infusion</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Shave The Planet!</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Shave The Planet!</string>
+		</array>
+		<key>typeLabel</key>
+		<array/>
+	</dict>
+	<key>Bay Oil</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>New!</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>New!</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Solid Shampoo Bar</string>
+		</array>
+	</dict>
+	<key>Bee Pollen</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>The Sacred Truth</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>The Sacred Truth</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Fresh Face Mask</string>
+		</array>
+	</dict>
+	<key>Beeswax</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Lemony Flutter</string>
+			<string>Ultrabland#</string>
+			<string>Chocolate Whipstick</string>
+			<string>Honey Trap</string>
+			<string>Prince</string>
+			<string>Lovely Jubblies</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Lemony Flutter</string>
+			<string>Ultrabland#</string>
+			<string>Chocolate Whipstick</string>
+			<string>Honey Trap</string>
+			<string>Prince</string>
+			<string>Lovely Jubblies</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Cuticle Butter</string>
+			<string>Facial Cleanser</string>
+			<string>Lip Balm</string>
+			<string>Lip Balm</string>
+			<string>Shaving Cream</string>
+			<string>Breast Cream</string>
+		</array>
+	</dict>
+	<key>Bentonite Gel</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Mask Of Magnaminty</string>
+			<string>Volcano</string>
+			<string>BB Seaweed</string>
+			<string>The Sacred Truth</string>
+			<string>AYESHA</string>
+			<string>Brazened Honey</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Mask Of Magnaminty</string>
+			<string>Volcano</string>
+			<string>BB Seaweed</string>
+			<string>The Sacred Truth</string>
+			<string>AYESHA</string>
+			<string>Brazened Honey</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Face And Body Mask</string>
+			<string>Foot Mask</string>
+			<string>Fresh Face Mask</string>
+			<string>Fresh Face Mask</string>
+			<string>Fresh Face Mask</string>
+			<string>Fresh Face Mask</string>
+		</array>
+	</dict>
+	<key>Benzoin Resinoid</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Shimmy Shimmy</string>
+			<string>Curly Wurly</string>
+			<string>American Cream</string>
+			<string>Greeench</string>
+			<string>Coconut</string>
+			<string>Veganese</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Shimmy Shimmy</string>
+			<string>Curly Wurly</string>
+			<string>American Cream</string>
+			<string>Greeench</string>
+			<string>Coconut</string>
+			<string>Veganese</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Body Tint</string>
+			<string>Shampoo</string>
+			<string>Hair Conditioner</string>
+			<string>Deodorant Powder</string>
+			<string>Deodorant Powder</string>
+			<string>Hair Conditioner</string>
+		</array>
+	</dict>
+	<key>Benzyl Alcohol</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Jasmine &amp; Henna Fluff Ease</string>
+			<string>Cynthia Sylvia Stout</string>
+			<string>The Hair Doctor</string>
+			<string>R&amp;B</string>
+			<string>I Love Juicy</string>
+			<string>Daddy-O</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Jasmine &amp; Henna Fluff Ease</string>
+			<string>Cynthia Sylvia Stout</string>
+			<string>The Hair Doctor</string>
+			<string>R&amp;B</string>
+			<string>I Love Juicy</string>
+			<string>Daddy-O</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Hair Treatment</string>
+			<string>Shampoo</string>
+			<string>Hair Mask</string>
+			<string>Hair Moisturizer</string>
+			<string>Shampoo</string>
+			<string>Shampoo</string>
+		</array>
+	</dict>
+	<key>Benzyl Benzoate</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Soft Coeur</string>
+			<string>Honey B</string>
+			<string>Ma Bar</string>
+			<string>New!</string>
+			<string>H&apos;suan Wen Hua</string>
+			<string>Wiccy Magic Muscles</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Soft Coeur</string>
+			<string>Honey B</string>
+			<string>Ma Bar</string>
+			<string>New!</string>
+			<string>H&apos;suan Wen Hua</string>
+			<string>Wiccy Magic Muscles</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Massage Bar</string>
+			<string>Bath Bomb</string>
+			<string>Bubble Bar</string>
+			<string>Solid Shampoo Bar</string>
+			<string>Hair Treatment</string>
+			<string>Massage Bar</string>
+		</array>
+	</dict>
+	<key>Benzyl Salicylate</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Turkish Delight</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Turkish Delight</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Shower Smoothie</string>
+		</array>
+	</dict>
+	<key>Bergamot</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>The Olive Branch</string>
+			<string>Happy Hippy</string>
+			<string>Sultana Of Soap</string>
+			<string>Pop In The Bath</string>
+			<string>Grass</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>The Olive Branch</string>
+			<string>Happy Hippy</string>
+			<string>Sultana Of Soap</string>
+			<string>Pop In The Bath</string>
+			<string>Grass</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Shower Gel</string>
+			<string>Shower Gel</string>
+			<string>Hand And Body Soap</string>
+			<string>Bubble Bar</string>
+			<string>Shower Gel</string>
+		</array>
+	</dict>
+	<key>Black Pepper</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Breath Of God</string>
+			<string>Hottie</string>
+			<string>Sparkle</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Breath Of God</string>
+			<string>Hottie</string>
+			<string>Sparkle</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Gorilla Perfume</string>
+			<string>Massage Bar</string>
+			<string>Toothy Tabs</string>
+		</array>
+	</dict>
+	<key>Blue Cornflower Petals</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>T&apos;eo</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>T&apos;eo</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Solid Deodorant Bar</string>
+		</array>
+	</dict>
+	<key>Blue Mallow Flowers</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Rose Queen</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Rose Queen</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Bath Bomb</string>
+		</array>
+	</dict>
+	<key>Brazil Oil</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Jasmine &amp; Henna Fluff Ease</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Jasmine &amp; Henna Fluff Ease</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Hair Treatment</string>
+		</array>
+	</dict>
+	<key>Cade Oil</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Soak And Float</string>
+			<string>Breath Of God</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Soak And Float</string>
+			<string>Breath Of God</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Solid Shampoo Bar</string>
+			<string>Gorilla Perfume</string>
+		</array>
+	</dict>
+	<key>Calamine Powder</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Fresh Farmacy</string>
+			<string>Dreamwash</string>
+			<string>Catastrophe Cosmetic</string>
+			<string>Aqua Marina</string>
+			<string>Happy Blooming</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Fresh Farmacy</string>
+			<string>Dreamwash</string>
+			<string>Catastrophe Cosmetic</string>
+			<string>Aqua Marina</string>
+			<string>Happy Blooming</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Facial Cleanser</string>
+			<string>Shower Smoothie</string>
+			<string>Fresh Face Mask</string>
+			<string>Facial Cleanser</string>
+			<string>Bath Melt</string>
+		</array>
+	</dict>
+	<key>Candelilla Wax</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Ultrabalm</string>
+			<string>Perspective</string>
+			<string>R&amp;B</string>
+			<string>Superbalm</string>
+			<string>Bubbly</string>
+			<string>Confident</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Ultrabalm</string>
+			<string>Perspective</string>
+			<string>R&amp;B</string>
+			<string>Superbalm</string>
+			<string>Bubbly</string>
+			<string>Confident</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>All Purpose Balm</string>
+			<string>Emotional Brilliance</string>
+			<string>Hair Moisturizer</string>
+			<string>Scalp Treatment</string>
+			<string>Emotional Brilliance</string>
+			<string>Emotional Brilliance</string>
+		</array>
+	</dict>
+	<key>Cardamom Oil</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Atomic</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Atomic</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Toothy Tabs</string>
+		</array>
+	</dict>
+	<key>Carnauba Wax</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>It Started With A Kiss</string>
+			<string>Eyes Right</string>
+			<string>Honey Trap</string>
+			<string>Whipstick</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>It Started With A Kiss</string>
+			<string>Eyes Right</string>
+			<string>Honey Trap</string>
+			<string>Whipstick</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Lip Tint</string>
+			<string>Mascara</string>
+			<string>Lip Balm</string>
+			<string>Lip Balm</string>
+		</array>
+	</dict>
+	<key>Carrageenan Extract</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>I Love Juicy</string>
+			<string>Sweetie Pie</string>
+			<string>Breath Of Fresh Air</string>
+			<string>Aqua Marina</string>
+			<string>Sea Spray</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>I Love Juicy</string>
+			<string>Sweetie Pie</string>
+			<string>Breath Of Fresh Air</string>
+			<string>Aqua Marina</string>
+			<string>Sea Spray</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Shampoo</string>
+			<string>Shower Jelly</string>
+			<string>Toner Water</string>
+			<string>Facial Cleanser</string>
+			<string>Hair Mist</string>
+		</array>
+	</dict>
+	<key>Cassie Absolute</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Karma</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Karma</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Gorilla Perfume</string>
+		</array>
+	</dict>
+	<key>Cassis Absolute</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>You Snap The Whip</string>
+			<string>The Comforter</string>
+			<string>Sweetie Pie</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>You Snap The Whip</string>
+			<string>The Comforter</string>
+			<string>Sweetie Pie</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Body Butter</string>
+			<string>Bubble Bar</string>
+			<string>Shower Jelly</string>
+		</array>
+	</dict>
+	<key>Castor Oil</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Lust Solid Perfume</string>
+			<string>Imogen Rose Solid Perfume</string>
+			<string>Breath Of God Solid Perfume</string>
+			<string>A Million Kisses</string>
+			<string>None Of Your Beeswax</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Lust Solid Perfume</string>
+			<string>Imogen Rose Solid Perfume</string>
+			<string>Breath Of God Solid Perfume</string>
+			<string>A Million Kisses</string>
+			<string>None Of Your Beeswax</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Solid Perfume</string>
+			<string>Solid Perfume</string>
+			<string>Solid Perfume</string>
+			<string>Lip Tint</string>
+			<string>Lip Balm</string>
+		</array>
+	</dict>
+	<key>Cetearyl Alcohol</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Curly Wurly</string>
+			<string>Veganese</string>
+			<string>Jungle</string>
+			<string>Gorgeous</string>
+			<string>Whipstick</string>
+			<string>Imperialis</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Curly Wurly</string>
+			<string>Veganese</string>
+			<string>Jungle</string>
+			<string>Gorgeous</string>
+			<string>Whipstick</string>
+			<string>Imperialis</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Shampoo</string>
+			<string>Hair Conditioner</string>
+			<string>Solid Hair Conditioner</string>
+			<string>Facial Moisturizer</string>
+			<string>Lip Balm</string>
+			<string>Facial Moisturizer</string>
+		</array>
+	</dict>
+	<key>Cetrimonium Bromide</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Veganese</string>
+			<string>Happy Happy Joy Joy</string>
+			<string>American Cream</string>
+			<string>Retread</string>
+			<string>Jungle</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Veganese</string>
+			<string>Happy Happy Joy Joy</string>
+			<string>American Cream</string>
+			<string>Retread</string>
+			<string>Jungle</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Hair Conditioner</string>
+			<string>Hair Conditioner</string>
+			<string>Hair Conditioner</string>
+			<string>Hair Conditioner</string>
+			<string>Solid Hair Conditioner</string>
+		</array>
+	</dict>
+	<key>Chamomile Blue Oil</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Superbalm</string>
+			<string>Ickle Baby Bot</string>
+			<string>Dream Steam</string>
+			<string>Blue Fun</string>
+			<string>Angels On Bare Skin</string>
+			<string>Dreamtime</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Superbalm</string>
+			<string>Ickle Baby Bot</string>
+			<string>Dream Steam</string>
+			<string>Blue Fun</string>
+			<string>Angels On Bare Skin</string>
+			<string>Dreamtime</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Scalp Treatment</string>
+			<string>Bath Bomb</string>
+			<string>Toner Tab</string>
+			<string>Bubble Bar</string>
+			<string>Facial Cleanser</string>
+			<string>Bath Melt</string>
+		</array>
+	</dict>
+	<key>Chamomile Oil</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Golden Slumbers</string>
+			<string>Dreamtime</string>
+			<string>Dream Cream</string>
+			<string>Fresh Farmacy</string>
+			<string>Herbalism</string>
+			<string>Catastrophe Cosmetic</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Golden Slumbers</string>
+			<string>Dreamtime</string>
+			<string>Dream Cream</string>
+			<string>Fresh Farmacy</string>
+			<string>Herbalism</string>
+			<string>Catastrophe Cosmetic</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Bath Bomb</string>
+			<string>Bath Melt</string>
+			<string>Hand And Body Lotion</string>
+			<string>Facial Cleanser</string>
+			<string>Facial Cleanser</string>
+			<string>Fresh Face Mask</string>
+		</array>
+	</dict>
+	<key>Charcoal</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Coalface</string>
+			<string>Dark Angels</string>
+			<string>You Snap The Whip</string>
+			<string>The Guv&apos;ner</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Coalface</string>
+			<string>Dark Angels</string>
+			<string>You Snap The Whip</string>
+			<string>The Guv&apos;ner</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Facial Cleanser</string>
+			<string>Facial Cleanser</string>
+			<string>Body Butter</string>
+			<string>Powder Deodorant</string>
+		</array>
+	</dict>
+	<key>Cherry Infusion</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Sweetie Pie</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Sweetie Pie</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Shower Jelly</string>
+		</array>
+	</dict>
+	<key>Chickweed Extract</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Cosmetic Lad</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Cosmetic Lad</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Facial Moisturizer</string>
+		</array>
+	</dict>
+	<key>Chlorophyllin</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Tea Tree Toner Tab</string>
+			<string>Grass</string>
+			<string>Love Lettuce</string>
+			<string>Sugar Scrub</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Tea Tree Toner Tab</string>
+			<string>Grass</string>
+			<string>Love Lettuce</string>
+			<string>Sugar Scrub</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Toner Tab</string>
+			<string>Shower Gel</string>
+			<string>Fresh Face Mask</string>
+			<string>Body Scrub</string>
+		</array>
+	</dict>
+	<key>Cinnamon Leaf Oil</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Blue Skies &amp; Fluffy White Clouds</string>
+			<string>New!</string>
+			<string>Fizzbanger</string>
+			<string>Phoenix Rising</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Blue Skies &amp; Fluffy White Clouds</string>
+			<string>New!</string>
+			<string>Fizzbanger</string>
+			<string>Phoenix Rising</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Bubble Bar</string>
+			<string>Solid Shampoo Bar</string>
+			<string>Bath Bomb</string>
+			<string>Bath Bomb</string>
+		</array>
+	</dict>
+	<key>Cinnamon Powder</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Let The Good Times Roll</string>
+			<string>Phoenix Rising</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Let The Good Times Roll</string>
+			<string>Phoenix Rising</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Facial Cleanser</string>
+			<string>Bath Bomb</string>
+		</array>
+	</dict>
+	<key>Cinnamon Sticks</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>New!</string>
+			<string>Phoenix Rising</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>New!</string>
+			<string>Phoenix Rising</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Solid Shampoo Bar</string>
+			<string>Bath Bomb</string>
+		</array>
+	</dict>
+	<key>Citric Acid</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Sex Bomb</string>
+			<string>Big Blue</string>
+			<string>Avobath</string>
+			<string>Honey B</string>
+			<string>Mmm</string>
+			<string>Floating Island</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Sex Bomb</string>
+			<string>Big Blue</string>
+			<string>Avobath</string>
+			<string>Honey B</string>
+			<string>Mmm</string>
+			<string>Floating Island</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Bath Bomb</string>
+			<string>Bath Bomb</string>
+			<string>Bath Bomb</string>
+			<string>Bath Bomb</string>
+			<string>Bath Melt</string>
+			<string>Bath Melt</string>
+		</array>
+	</dict>
+	<key>Citronellol</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Charity Pot</string>
+			<string>T For Toes</string>
+			<string>You&apos;ve Been Mangoed</string>
+			<string>Fair Trade Honey</string>
+			<string>Imogen Rose</string>
+			<string>Rose Jam</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Charity Pot</string>
+			<string>T For Toes</string>
+			<string>You&apos;ve Been Mangoed</string>
+			<string>Fair Trade Honey</string>
+			<string>Imogen Rose</string>
+			<string>Rose Jam</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Hand And Body Lotion</string>
+			<string>Foot Powder</string>
+			<string>Bath Melt</string>
+			<string>Shampoo</string>
+			<string>Solid Perfume</string>
+			<string>Bubbleroon</string>
+		</array>
+	</dict>
+	<key>Clary Sage</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Shimmy Shimmy</string>
+			<string>Sex Bomb</string>
+			<string>American Cream</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Shimmy Shimmy</string>
+			<string>Sex Bomb</string>
+			<string>American Cream</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Body Tint</string>
+			<string>Bath Bomb</string>
+			<string>Hair Conditioner</string>
+		</array>
+	</dict>
+	<key>Clove Bud Oil</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Caca Rouge Mama</string>
+			<string>Caca Noir Mama</string>
+			<string>Demon In The Dark</string>
+			<string>Atomic</string>
+			<string>Brazened Honey</string>
+			<string>New!</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Caca Rouge Mama</string>
+			<string>Caca Noir Mama</string>
+			<string>Demon In The Dark</string>
+			<string>Atomic</string>
+			<string>Brazened Honey</string>
+			<string>New!</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Henna Hair Color</string>
+			<string>Henna Hair Color</string>
+			<string>Hand And Body Soap</string>
+			<string>Toothy Tabs</string>
+			<string>Fresh Face Mask</string>
+			<string>Solid Shampoo Bar</string>
+		</array>
+	</dict>
+	<key>Cocamide Mea</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>I Love Juicy</string>
+			<string>Rehab</string>
+			<string>Daddy-O</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>I Love Juicy</string>
+			<string>Rehab</string>
+			<string>Daddy-O</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Shampoo</string>
+			<string>Shampoo</string>
+			<string>Shampoo</string>
+		</array>
+	</dict>
+	<key>Cocoa Absolute</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Chocolate Whipstick</string>
+			<string>Friends With Benefits</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Chocolate Whipstick</string>
+			<string>Friends With Benefits</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Lip Balm</string>
+			<string>Massage Bar</string>
+		</array>
+	</dict>
+	<key>Cocoa Butter</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Therapy</string>
+			<string>Strawberry Feels Forever</string>
+			<string>Floating Island</string>
+			<string>Buffy</string>
+			<string>Dream Cream</string>
+			<string>Silky Underwear</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Therapy</string>
+			<string>Strawberry Feels Forever</string>
+			<string>Floating Island</string>
+			<string>Buffy</string>
+			<string>Dream Cream</string>
+			<string>Silky Underwear</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Massage Bar</string>
+			<string>Massage Bar</string>
+			<string>Bath Melt</string>
+			<string>Body Butter</string>
+			<string>Hand And Body Lotion</string>
+			<string>Dusting Powder</string>
+		</array>
+	</dict>
+	<key>Coconut Cream</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Coconut</string>
+			<string>Trichomania</string>
+			<string>Curly Wurly</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Coconut</string>
+			<string>Trichomania</string>
+			<string>Curly Wurly</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Deodorant Powder</string>
+			<string>Solid Shampoo Bar</string>
+			<string>Shampoo</string>
+		</array>
+	</dict>
+	<key>Coconut Milk Powder</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Coconut</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Coconut</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Deodorant Powder</string>
+		</array>
+	</dict>
+	<key>Coconut Oil</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>The Hair Doctor</string>
+			<string>Porridge</string>
+			<string>Almond And Coconut Smoothie</string>
+			<string>Gorgeous</string>
+			<string>Coconut</string>
+			<string>Daddy-O</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>The Hair Doctor</string>
+			<string>Porridge</string>
+			<string>Almond And Coconut Smoothie</string>
+			<string>Gorgeous</string>
+			<string>Coconut</string>
+			<string>Daddy-O</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Hair Mask</string>
+			<string>Hand And Body Soap</string>
+			<string>Shower Smoothie</string>
+			<string>Facial Moisturizer</string>
+			<string>Deodorant Powder</string>
+			<string>Shampoo</string>
+		</array>
+	</dict>
+	<key>Coffee</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Atomic</string>
+			<string>Caca Brun</string>
+			<string>Caca Marron</string>
+			<string>Latte</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Atomic</string>
+			<string>Caca Brun</string>
+			<string>Caca Marron</string>
+			<string>Latte</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Toothy Tabs</string>
+			<string>Henna Hair Color</string>
+			<string>Henna Hair Color</string>
+			<string>Lip Tint</string>
+		</array>
+	</dict>
+	<key>Cognac Oil</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Cynthia Sylvia Stout</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Cynthia Sylvia Stout</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Shampoo</string>
+		</array>
+	</dict>
+	<key>Coriander Oil</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Sandstone</string>
+			<string>Brazened Honey</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Sandstone</string>
+			<string>Brazened Honey</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Hand And Body Soap</string>
+			<string>Fresh Face Mask</string>
+		</array>
+	</dict>
+	<key>Cornstarch</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Silky Underwear</string>
+			<string>Coconut</string>
+			<string>Sexy Peel</string>
+			<string>Cosmetic Warrior</string>
+			<string>Vanilla Puff</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Silky Underwear</string>
+			<string>Coconut</string>
+			<string>Sexy Peel</string>
+			<string>Cosmetic Warrior</string>
+			<string>Vanilla Puff</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Dusting Powder</string>
+			<string>Deodorant Powder</string>
+			<string>Hand And Body Soap</string>
+			<string>Fresh Face Mask</string>
+			<string>Dusting Powder</string>
+		</array>
+	</dict>
+	<key>Coumarin</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Shimmy Shimmy</string>
+			<string>Squeaky Green</string>
+			<string>Rose Jam</string>
+			<string>Big Blue</string>
+			<string>Daddy-O</string>
+			<string>American Cream</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Shimmy Shimmy</string>
+			<string>Squeaky Green</string>
+			<string>Rose Jam</string>
+			<string>Big Blue</string>
+			<string>Daddy-O</string>
+			<string>American Cream</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Body Tint</string>
+			<string>Solid Shampoo Bar</string>
+			<string>Bubbleroon</string>
+			<string>Bath Bomb</string>
+			<string>Shampoo</string>
+			<string>Hair Conditioner</string>
+		</array>
+	</dict>
+	<key>Cowslips</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Ceridwens Cauldron</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Ceridwens Cauldron</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Bath Melt</string>
+		</array>
+	</dict>
+	<key>Cranberries</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Sultana Of Soap</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Sultana Of Soap</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Hand And Body Soap</string>
+		</array>
+	</dict>
+	<key>Cream Of Tartar</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Blue Skies &amp; Fluffy Clouds</string>
+			<string>The Comforter</string>
+			<string>Amandopondo</string>
+			<string>Sunny Side</string>
+			<string>French Kiss</string>
+			<string>T&apos;eo</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Blue Skies &amp; Fluffy Clouds</string>
+			<string>The Comforter</string>
+			<string>Amandopondo</string>
+			<string>Sunny Side</string>
+			<string>French Kiss</string>
+			<string>T&apos;eo</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Bubble Bar</string>
+			<string>Bubble Bar</string>
+			<string>Bubble Bar</string>
+			<string>Bubble Bar</string>
+			<string>Bubble Bar</string>
+			<string>Solid Deodorant Bar</string>
+		</array>
+	</dict>
+	<key>Cupuacu Butter</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Full Of Grace</string>
+			<string>None Of Your Beeswax</string>
+			<string>Ros Argan Body Conditioner</string>
+			<string>R&amp;B</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Full Of Grace</string>
+			<string>None Of Your Beeswax</string>
+			<string>Ros Argan Body Conditioner</string>
+			<string>R&amp;B</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Facial Serum</string>
+			<string>Lip Balm</string>
+			<string>Body Conditioner</string>
+			<string>Hair Moisturizer</string>
+		</array>
+	</dict>
+	<key>Cypress Oil</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Geo Phyzz</string>
+			<string>Flying Fox</string>
+			<string>Godiva</string>
+			<string>You Snap The Whip</string>
+			<string>Sweetie Pie</string>
+			<string>Jungle</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Geo Phyzz</string>
+			<string>Flying Fox</string>
+			<string>Godiva</string>
+			<string>You Snap The Whip</string>
+			<string>Sweetie Pie</string>
+			<string>Jungle</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Bath Bomb</string>
+			<string>Shower Gel</string>
+			<string>Solid Shampoo Bar</string>
+			<string>Body Butter</string>
+			<string>Shower Jelly</string>
+			<string>Solid Hair Conditioner</string>
+		</array>
+	</dict>
+	<key>Daisy Flowers</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Ceridwens Cauldron</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Ceridwens Cauldron</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Bath Melt</string>
+		</array>
+	</dict>
+	<key>Dove Orchid Infusion</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Celestial</string>
+			<string>9 To 5</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Celestial</string>
+			<string>9 To 5</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Facial Moisturizer</string>
+			<string>Cleansing Lotion</string>
+		</array>
+	</dict>
+	<key>Dried Cherries</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Happy Blooming</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Happy Blooming</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Bath Melt</string>
+		</array>
+	</dict>
+	<key>Edta</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Bohemian</string>
+			<string>Coalface</string>
+			<string>The Godmother</string>
+			<string>Almond And Coconut Smoothie</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Bohemian</string>
+			<string>Coalface</string>
+			<string>The Godmother</string>
+			<string>Almond And Coconut Smoothie</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Hand And Body Soap</string>
+			<string>Facial Cleanser</string>
+			<string>Hand And Body Soap</string>
+			<string>Shower Smoothie</string>
+		</array>
+	</dict>
+	<key>Elderflower</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Ayesha</string>
+			<string>Fresh Farmacy</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Ayesha</string>
+			<string>Fresh Farmacy</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Fresh Face Mask</string>
+			<string>Facial Cleanser</string>
+		</array>
+	</dict>
+	<key>Elemi Oil</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Ultimate Shine</string>
+			<string>Karma Perfume</string>
+			<string>Karma Komba</string>
+			<string>Karma Kream</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Ultimate Shine</string>
+			<string>Karma Perfume</string>
+			<string>Karma Komba</string>
+			<string>Karma Kream</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Solid Shampoo Bar</string>
+			<string>Gorilla Perfume</string>
+			<string>Solid Shampoo Bar</string>
+			<string>Hand And Body Lotion</string>
+		</array>
+	</dict>
+	<key>Eugenol</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Breath Of God Perfume</string>
+			<string>Blue Skies &amp; Fluffy White Clouds</string>
+			<string>H&apos;suan Wen Hua</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Breath Of God Perfume</string>
+			<string>Blue Skies &amp; Fluffy White Clouds</string>
+			<string>H&apos;suan Wen Hua</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Gorilla Perfume</string>
+			<string>Bubble Bar</string>
+			<string>Hair Treatment</string>
+		</array>
+	</dict>
+	<key>Evening Primrose Oil</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Skin Drink</string>
+			<string>The Sacred Truth</string>
+			<string>Handy Gurugu</string>
+			<string>Enzymion</string>
+			<string>Gorgeous</string>
+			<string>Skins Shangri La</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Skin Drink</string>
+			<string>The Sacred Truth</string>
+			<string>Handy Gurugu</string>
+			<string>Enzymion</string>
+			<string>Gorgeous</string>
+			<string>Skins Shangri La</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Facial Moisturizer</string>
+			<string>Fresh Face Mask</string>
+			<string>Hand Cream</string>
+			<string>Facial Moisturizer</string>
+			<string>Facial Moisturizer</string>
+			<string>Facial Moisturizer</string>
+		</array>
+	</dict>
+	<key>Everlasting Flower Absolute</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>9 To 5</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>9 To 5</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Cleansing Lotion</string>
+		</array>
+	</dict>
+	<key>Fennel Oil</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Sugar Scrub</string>
+			<string>Breath Of God Toothy Tabs</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Sugar Scrub</string>
+			<string>Breath Of God Toothy Tabs</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Body Scrub</string>
+			<string>Toothy Tabs</string>
+		</array>
+	</dict>
+	<key>Flavor</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Bubblegum</string>
+			<string>Latte</string>
+			<string>Chou Chou I Love You</string>
+			<string>It Started With A Kiss</string>
+			<string>Mint Julips</string>
+			<string>Whipstick</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Bubblegum</string>
+			<string>Latte</string>
+			<string>Chou Chou I Love You</string>
+			<string>It Started With A Kiss</string>
+			<string>Mint Julips</string>
+			<string>Whipstick</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Lip Scrub</string>
+			<string>Lip Tint</string>
+			<string>Toothy Tabs</string>
+			<string>Lip Tint</string>
+			<string>Lip Scrub</string>
+			<string>Lip Balm</string>
+		</array>
+	</dict>
+	<key>Frankincense Oil</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Blackberry</string>
+			<string>Happy Hippy</string>
+			<string>Strawberry Feels Forever</string>
+			<string>Sultana Of Soap</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Blackberry</string>
+			<string>Happy Hippy</string>
+			<string>Strawberry Feels Forever</string>
+			<string>Sultana Of Soap</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Bath Bomb</string>
+			<string>Shower Gel</string>
+			<string>Massage Bar</string>
+			<string>Hand And Body Soap</string>
+		</array>
+	</dict>
+	<key>Fresh Asparagus</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Ayesha</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Ayesha</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Fresh Face Mask</string>
+		</array>
+	</dict>
+	<key>Fresh Avocado</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Avobath</string>
+			<string>Skin Drink</string>
+			<string>King Of Skin</string>
+			<string>H&apos;suan Wen Hua</string>
+			<string>Jungle</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Avobath</string>
+			<string>Skin Drink</string>
+			<string>King Of Skin</string>
+			<string>H&apos;suan Wen Hua</string>
+			<string>Jungle</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Bath Bomb</string>
+			<string>Facial Moisturizer</string>
+			<string>Body Butter</string>
+			<string>Hair Treatment</string>
+			<string>Solid Hair Conditioner</string>
+		</array>
+	</dict>
+	<key>Fresh Bananas</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>King Of Skin</string>
+			<string>Sympathy For The Skin</string>
+			<string>H&apos;suan Wen Hua</string>
+			<string>Mange Too</string>
+			<string>Oatifix</string>
+			<string>Blousey</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>King Of Skin</string>
+			<string>Sympathy For The Skin</string>
+			<string>H&apos;suan Wen Hua</string>
+			<string>Mange Too</string>
+			<string>Oatifix</string>
+			<string>Blousey</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Body Butter</string>
+			<string>Hand And Body Lotion</string>
+			<string>Hair Treatment</string>
+			<string>Massage Bar</string>
+			<string>Fresh Face Mask</string>
+			<string>Shampoo</string>
+		</array>
+	</dict>
+	<key>Fresh Blueberries</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Catastrophe Cosmetic</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Catastrophe Cosmetic</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Fresh Face Mask</string>
+		</array>
+	</dict>
+	<key>Fresh Cataloupe Melon</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Retread</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Retread</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Hair Conditioner</string>
+		</array>
+	</dict>
+	<key>Fresh Figs</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Jungle</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Jungle</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Solid Hair Conditioner</string>
+		</array>
+	</dict>
+	<key>Fresh Free Range Eggs</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>H&apos;suan Wen Hua</string>
+			<string>Cosmetic Warrior</string>
+			<string>Brazened Honey</string>
+			<string>The Sacred Truth</string>
+			<string>Shine So Bright</string>
+			<string>Curly Wurly</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>H&apos;suan Wen Hua</string>
+			<string>Cosmetic Warrior</string>
+			<string>Brazened Honey</string>
+			<string>The Sacred Truth</string>
+			<string>Shine So Bright</string>
+			<string>Curly Wurly</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Hair Treatment</string>
+			<string>Fresh Face Mask</string>
+			<string>Fresh Face Mask</string>
+			<string>Fresh Face Mask</string>
+			<string>Split End Treatment</string>
+			<string>Shampoo</string>
+		</array>
+	</dict>
+	<key>Fresh Garlic</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Cosmetic Warrior</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Cosmetic Warrior</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Fresh Face Mask</string>
+		</array>
+	</dict>
+	<key>Fresh Grapefruit Infusion</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Ocean Salt</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Ocean Salt</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Face And Body Scrub</string>
+		</array>
+	</dict>
+	<key>Fresh Grapefruit Juice</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Whoosh</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Whoosh</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Shower Jelly</string>
+		</array>
+	</dict>
+	<key>Fresh Green Grapes</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Cosmetic Warrior</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Cosmetic Warrior</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Fresh Face Mask</string>
+		</array>
+	</dict>
+	<key>Fresh Iris Extract</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Ultrabland</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Ultrabland</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Facial Cleanser</string>
+		</array>
+	</dict>
+	<key>Fresh Kiwi Fruit</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Vanilla Dee-Lite</string>
+			<string>Miranda</string>
+			<string>Jungle</string>
+			<string>Ayesha</string>
+			<string>I Love Juicy</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Vanilla Dee-Lite</string>
+			<string>Miranda</string>
+			<string>Jungle</string>
+			<string>Ayesha</string>
+			<string>I Love Juicy</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Body Lotion</string>
+			<string>Hand And Body Soap</string>
+			<string>Solid Hair Conditioner</string>
+			<string>Fresh Face Mask</string>
+			<string>Shampoo</string>
+		</array>
+	</dict>
+	<key>Fresh Kumquat</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Jungle</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Jungle</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Solid Hair Conditioner</string>
+		</array>
+	</dict>
+	<key>Fresh Lemongrass</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Karma Perfume</string>
+			<string>T&apos;eo</string>
+			<string>Karma Soap</string>
+			<string>25:43 Perfume</string>
+			<string>Avobath</string>
+			<string>You&apos;ve Been Mangoed</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Karma Perfume</string>
+			<string>T&apos;eo</string>
+			<string>Karma Soap</string>
+			<string>25:43 Perfume</string>
+			<string>Avobath</string>
+			<string>You&apos;ve Been Mangoed</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Gorilla Perfume</string>
+			<string>Solid Deodorant Bar</string>
+			<string>Hand And Body Soap</string>
+			<string>Gorilla Perfume</string>
+			<string>Bath Bomb</string>
+			<string>Bath Melt</string>
+		</array>
+	</dict>
+	<key>Fresh Lemons</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>None Of Your Beeswax</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>None Of Your Beeswax</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Lip Balm</string>
+		</array>
+	</dict>
+	<key>Fresh Lime Juice</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Big Shampoo</string>
+			<string>Sexy Peel</string>
+			<string>Big Conditioner</string>
+			<string>Whoosh</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Big Shampoo</string>
+			<string>Sexy Peel</string>
+			<string>Big Conditioner</string>
+			<string>Whoosh</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Shampoo</string>
+			<string>Hand And Body Soap</string>
+			<string>Solid Hair Conditioner</string>
+			<string>Shower Jelly</string>
+		</array>
+	</dict>
+	<key>Fresh Mandarin Juice</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>The Olive Branch</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>The Olive Branch</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Shower Gel</string>
+		</array>
+	</dict>
+	<key>Fresh Mango</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Rehab</string>
+			<string>I Love Juicy</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Rehab</string>
+			<string>I Love Juicy</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Shampoo</string>
+			<string>Shampoo</string>
+		</array>
+	</dict>
+	<key>Fresh Mint</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Roots</string>
+			<string>Cupcake</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Roots</string>
+			<string>Cupcake</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Hair Treatment</string>
+			<string>Fresh Face Mask</string>
+		</array>
+	</dict>
+	<key>Fresh Orange Juice</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Gorgeous</string>
+			<string>Sexy Peel</string>
+			<string>Porridge</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Gorgeous</string>
+			<string>Sexy Peel</string>
+			<string>Porridge</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Facial Moisturizer</string>
+			<string>Hand And Body Soap</string>
+			<string>Hand And Body Soap</string>
+		</array>
+	</dict>
+	<key>Fresh Oranges</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>American Cream</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>American Cream</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Hair Conditioner</string>
+		</array>
+	</dict>
+	<key>Fresh Papaya</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Volcano</string>
+			<string>I Love Juicy</string>
+			<string>Curly Wurly</string>
+			<string>Enzymion</string>
+			<string>The Sacred Truth</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Volcano</string>
+			<string>I Love Juicy</string>
+			<string>Curly Wurly</string>
+			<string>Enzymion</string>
+			<string>The Sacred Truth</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Foot Mask</string>
+			<string>Shampoo</string>
+			<string>Shampoo</string>
+			<string>Facial Moisturizer</string>
+			<string>Fresh Face Mask</string>
+		</array>
+	</dict>
+	<key>Fresh Parsley</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Brazened Honey</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Brazened Honey</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Fresh Face Mask</string>
+		</array>
+	</dict>
+	<key>Fresh Passion Fruit</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Happy Blooming</string>
+			<string>Jungle</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Happy Blooming</string>
+			<string>Jungle</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Bath Melt</string>
+			<string>Solid Hair Conditioner</string>
+		</array>
+	</dict>
+	<key>Fresh Pineapple</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Rehab</string>
+			<string>Gorgeous</string>
+			<string>I Love Juicy</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Rehab</string>
+			<string>Gorgeous</string>
+			<string>I Love Juicy</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Shampoo</string>
+			<string>Facial Moisturizer</string>
+			<string>Shampoo</string>
+		</array>
+	</dict>
+	<key>Fresh Pink Grapefruit Juice</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Happy Hippy</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Happy Hippy</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Shower Gel</string>
+		</array>
+	</dict>
+	<key>Fresh Portobello Mushrooms</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Full Of Grace</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Full Of Grace</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Facial Serum</string>
+		</array>
+	</dict>
+	<key>Fresh Rose Infusion</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Light Pink</string>
+			<string>Full Of Grace</string>
+			<string>Dark Pink</string>
+			<string>Light Yellow</string>
+			<string>Dark Yellow</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Light Pink</string>
+			<string>Full Of Grace</string>
+			<string>Dark Pink</string>
+			<string>Light Yellow</string>
+			<string>Dark Yellow</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Color Supplement</string>
+			<string>Facial Serum</string>
+			<string>Color Supplement</string>
+			<string>Color Supplement</string>
+			<string>Color Supplement</string>
+		</array>
+	</dict>
+	<key>Fresh Rosemary Infusion</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Veganese</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Veganese</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Hair Conditioner</string>
+		</array>
+	</dict>
+	<key>Fresh Sea Water</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Breath Of Fresh Air</string>
+			<string>Daddy-O</string>
+			<string>Big Shampoo</string>
+			<string>Sea Spray</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Breath Of Fresh Air</string>
+			<string>Daddy-O</string>
+			<string>Big Shampoo</string>
+			<string>Sea Spray</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Toner Water</string>
+			<string>Shampoo</string>
+			<string>Shampoo</string>
+			<string>Hair Mist</string>
+		</array>
+	</dict>
+	<key>Fresh Spring Water</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Ros Argan Body Conditioner</string>
+			<string>Breath Of Fresh Air</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Ros Argan Body Conditioner</string>
+			<string>Breath Of Fresh Air</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Body Conditioner</string>
+			<string>Toner Water</string>
+		</array>
+	</dict>
+	<key>Fresh Strawberries</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Strawberry Feels Forever</string>
+			<string>American Cream</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Strawberry Feels Forever</string>
+			<string>American Cream</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Massage Bar</string>
+			<string>Hair Conditioner</string>
+		</array>
+	</dict>
+	<key>Fresh Tomatoes</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Volcano</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Volcano</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Foot Mask</string>
+		</array>
+	</dict>
+	<key>Fresh Watercress Infusion</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>H&apos;suan Wen Hua</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>H&apos;suan Wen Hua</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Hair Treatment</string>
+		</array>
+	</dict>
+	<key>Fresh Wheatgrass</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Eyes Right</string>
+			<string>The Sacred Truth</string>
+			<string>Skins Shangri-La</string>
+			<string>Grass</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Eyes Right</string>
+			<string>The Sacred Truth</string>
+			<string>Skins Shangri-La</string>
+			<string>Grass</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Mascara</string>
+			<string>Fresh Face Mask</string>
+			<string>Facial Moisturizer</string>
+			<string>Shower Gel</string>
+		</array>
+	</dict>
+	<key>Fullers Earth</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Ayesha</string>
+			<string>The Hair Doctor</string>
+			<string>Love Lettuce</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Ayesha</string>
+			<string>The Hair Doctor</string>
+			<string>Love Lettuce</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Fresh Face Mask</string>
+			<string>Hair Mask</string>
+			<string>Fresh Face Mask</string>
+		</array>
+	</dict>
+	<key>Gardenia Extract</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Herbalism</string>
+			<string>Ultimate Shine</string>
+			<string>Yellow Fun</string>
+			<string>Sandstone</string>
+			<string>The Olive Branch</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Herbalism</string>
+			<string>Ultimate Shine</string>
+			<string>Yellow Fun</string>
+			<string>Sandstone</string>
+			<string>The Olive Branch</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Facial Cleanser</string>
+			<string>Solid Shampoo Bar</string>
+			<string>Bubble Bar</string>
+			<string>Hand And Body Soap</string>
+			<string>Shower Gel</string>
+		</array>
+	</dict>
+	<key>Geraniol</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Pink Fun</string>
+			<string>Tisty Tosty</string>
+			<string>A Million Kisses</string>
+			<string>Dream Cream</string>
+			<string>Coalface</string>
+			<string>Therapy</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Pink Fun</string>
+			<string>Tisty Tosty</string>
+			<string>A Million Kisses</string>
+			<string>Dream Cream</string>
+			<string>Coalface</string>
+			<string>Therapy</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Bubble Bar</string>
+			<string>Bath Bomb</string>
+			<string>Lip Tint</string>
+			<string>Hand And Body Lotion</string>
+			<string>Facial Cleanser</string>
+			<string>Massage Bar</string>
+		</array>
+	</dict>
+	<key>Geranium Oil</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Charity Pot</string>
+			<string>Whoosh</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Charity Pot</string>
+			<string>Whoosh</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Hand And Body Lotion</string>
+			<string>Shower Jelly</string>
+		</array>
+	</dict>
+	<key>Ginseng Root Powder</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>From Dusk &apos;Til Dawn</string>
+			<string>The Sacred Truth</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>From Dusk &apos;Til Dawn</string>
+			<string>The Sacred Truth</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Massage Bar</string>
+			<string>Fresh Face Mask</string>
+		</array>
+	</dict>
+	<key>Glycerine</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Sweetie Pie</string>
+			<string>Aqua Marina</string>
+			<string>Gorgeous</string>
+			<string>Imperialis</string>
+			<string>Bohemian</string>
+			<string>Cosmetic Warrior</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Sweetie Pie</string>
+			<string>Aqua Marina</string>
+			<string>Gorgeous</string>
+			<string>Imperialis</string>
+			<string>Bohemian</string>
+			<string>Cosmetic Warrior</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Shower Jelly</string>
+			<string>Facial Cleanser</string>
+			<string>Facial Moisturizer</string>
+			<string>Facial Moisturizer</string>
+			<string>Hand And Body Soap</string>
+			<string>Fresh Face Mask</string>
+		</array>
+	</dict>
+	<key>Glycerl Stearate &amp; Peg - 100 Stearate</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Green Fun</string>
+			<string>Big Solid Conditioner</string>
+			<string>Godiva</string>
+			<string>R&amp;B</string>
+			<string>Curly Wurly</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Green Fun</string>
+			<string>Big Solid Conditioner</string>
+			<string>Godiva</string>
+			<string>R&amp;B</string>
+			<string>Curly Wurly</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Bubble Bar</string>
+			<string>Solid Hair Conditioner</string>
+			<string>Solid Shampoo Bar</string>
+			<string>Hair Moisturizer</string>
+			<string>Shampoo</string>
+		</array>
+	</dict>
+	<key>Glyceryl Stearate</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Fantasy</string>
+			<string>Trichomania</string>
+			<string>Independent</string>
+			<string>Jungle</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Fantasy</string>
+			<string>Trichomania</string>
+			<string>Independent</string>
+			<string>Jungle</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Emotional Brilliance</string>
+			<string>Solid Shampoo Bar</string>
+			<string>Emotional Brilliance</string>
+			<string>Solid Hair Conditioner</string>
+		</array>
+	</dict>
+	<key>Glycol Cetearate</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Ocean Salt</string>
+			<string>Daddy-O</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Ocean Salt</string>
+			<string>Daddy-O</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Face And Body Scrub</string>
+			<string>Shampoo</string>
+		</array>
+	</dict>
+	<key>Goji Berry Decoction</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Ros Argan Body Conditioner</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Ros Argan Body Conditioner</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Body Conditioner</string>
+		</array>
+	</dict>
+	<key>Grape Juice</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Grease Lightning</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Grease Lightning</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Spot Treatment</string>
+		</array>
+	</dict>
+	<key>Grapefruit Oil</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Space Girl</string>
+			<string>Happy Hippy</string>
+			<string>Each Peach (And Two&apos;s A Pair)</string>
+			<string>Tea Tree Water</string>
+			<string>Sexy Peel</string>
+			<string>Breath Of God Perfume</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Space Girl</string>
+			<string>Happy Hippy</string>
+			<string>Each Peach (And Two&apos;s A Pair)</string>
+			<string>Tea Tree Water</string>
+			<string>Sexy Peel</string>
+			<string>Breath Of God Perfume</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Bath Bomb</string>
+			<string>Shower Gel</string>
+			<string>Massage Bar</string>
+			<string>Toner Water</string>
+			<string>Hand And Body Soap</string>
+			<string>Gorilla Perfume</string>
+		</array>
+	</dict>
+	<key>Green Tea Infusion</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>The Sacred Truth</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>The Sacred Truth</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Fresh Face Mask</string>
+		</array>
+	</dict>
+	<key>Ground Almond Shells</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Aqua Mirabilis</string>
+			<string>Love Lettuce</string>
+			<string>Brazened Honey</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Aqua Mirabilis</string>
+			<string>Love Lettuce</string>
+			<string>Brazened Honey</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Body Butter</string>
+			<string>Fresh Face Mask</string>
+			<string>Fresh Face Mask</string>
+		</array>
+	</dict>
+	<key>Ground Rice</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Buffy</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Buffy</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Body Butter</string>
+		</array>
+	</dict>
+	<key>Ground Turmeric</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Brazened Honey</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Brazened Honey</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Fresh Face Mask</string>
+		</array>
+	</dict>
+	<key>Hemp Oil</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Jasmine &amp; Henna Fluff Ease</string>
+			<string>The Hair Doctor</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Jasmine &amp; Henna Fluff Ease</string>
+			<string>The Hair Doctor</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Hair Treatment</string>
+			<string>Hair Mask</string>
+		</array>
+	</dict>
+	<key>Hibiscus Flower</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Vanilla Dee-Lite</string>
+			<string>Strawberry Feels Forever</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Vanilla Dee-Lite</string>
+			<string>Strawberry Feels Forever</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Body Lotion</string>
+			<string>Massage Bar</string>
+		</array>
+	</dict>
+	<key>Honey</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Flying Fox</string>
+			<string>Its Raining Men</string>
+			<string>Whipstick</string>
+			<string>Honey B</string>
+			<string>Honey Trap</string>
+			<string>Honey I Washed The Kids</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Flying Fox</string>
+			<string>Its Raining Men</string>
+			<string>Whipstick</string>
+			<string>Honey B</string>
+			<string>Honey Trap</string>
+			<string>Honey I Washed The Kids</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Shower Gel</string>
+			<string>Shower Gel</string>
+			<string>Lip Balm</string>
+			<string>Bath Bomb</string>
+			<string>Lip Balm</string>
+			<string>Hand And Body Soap</string>
+		</array>
+	</dict>
+	<key>Hydrocitronellal</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Vanillary Perfume</string>
+			<string>Heavanilli</string>
+			<string>Vanilla Puff</string>
+			<string>The Olive Branch</string>
+			<string>Gorgeous</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Vanillary Perfume</string>
+			<string>Heavanilli</string>
+			<string>Vanilla Puff</string>
+			<string>The Olive Branch</string>
+			<string>Gorgeous</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Solid Perfume</string>
+			<string>Massage Bar</string>
+			<string>Dusting Powder</string>
+			<string>Shower Gel</string>
+			<string>Facial Moisturizer</string>
+		</array>
+	</dict>
+	<key>Illipe Butter</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>From Dusk &apos;Til Dawn</string>
+			<string>Dirty Hair Cream</string>
+			<string>Oatifix</string>
+			<string>Vanilla Dee-Lite</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>From Dusk &apos;Til Dawn</string>
+			<string>Dirty Hair Cream</string>
+			<string>Oatifix</string>
+			<string>Vanilla Dee-Lite</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Massage Bar</string>
+			<string>Hair Cream</string>
+			<string>Fresh Face Mask</string>
+			<string>Body Lotion</string>
+		</array>
+	</dict>
+	<key>Indigo Henna</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Caca Noir Mama</string>
+			<string>Caca Brun Mama</string>
+			<string>Caca Marron Mama</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Caca Noir Mama</string>
+			<string>Caca Brun Mama</string>
+			<string>Caca Marron Mama</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Henna Hair Color</string>
+			<string>Henna Hair Color</string>
+			<string>Henna Hair Color</string>
+		</array>
+	</dict>
+	<key>Irish Moss</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Catastrophe Cosmetic</string>
+			<string>Aqua Marina</string>
+			<string>Seanik</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Catastrophe Cosmetic</string>
+			<string>Aqua Marina</string>
+			<string>Seanik</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Fresh Face Mask</string>
+			<string>Facial Cleanser</string>
+			<string>Solid Shampoo Bar</string>
+		</array>
+	</dict>
+	<key>Iron Oxides</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Emotional Brilliance Translucent Powder</string>
+			<string>Perspective</string>
+			<string>Confident</string>
+			<string>Independent</string>
+			<string>Eyes Right</string>
+			<string>Charisma</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Emotional Brilliance Translucent Powder</string>
+			<string>Perspective</string>
+			<string>Confident</string>
+			<string>Independent</string>
+			<string>Eyes Right</string>
+			<string>Charisma</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Translucent Powder</string>
+			<string>Emotional Brilliance</string>
+			<string>Emotional Brilliance</string>
+			<string>Emotional Brilliance</string>
+			<string>Mascara</string>
+			<string>Skin Tint</string>
+		</array>
+	</dict>
+	<key>Japan Wax</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Its Started With A Kiss</string>
+			<string>None Of Your Beeswax</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Its Started With A Kiss</string>
+			<string>None Of Your Beeswax</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Lip Tint</string>
+			<string>Lip Balm</string>
+		</array>
+	</dict>
+	<key>Jasmine Absolute</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Lust Perfume</string>
+			<string>Flying Fox</string>
+			<string>Sex Bomb</string>
+			<string>Jasmine &amp; Henna Fluff Ease</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Lust Perfume</string>
+			<string>Flying Fox</string>
+			<string>Sex Bomb</string>
+			<string>Jasmine &amp; Henna Fluff Ease</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Gorilla Perfume</string>
+			<string>Shower Gel</string>
+			<string>Bath Bomb</string>
+			<string>Hair Treatment</string>
+		</array>
+	</dict>
+	<key>Jojoba Oil</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Ambrosia</string>
+			<string>King Of Skin</string>
+			<string>Dreamtime</string>
+			<string>Godiva</string>
+			<string>Rehab</string>
+			<string>Mint Julips</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Ambrosia</string>
+			<string>King Of Skin</string>
+			<string>Dreamtime</string>
+			<string>Godiva</string>
+			<string>Rehab</string>
+			<string>Mint Julips</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Shaving Cream</string>
+			<string>Body Butter</string>
+			<string>Bath Melt</string>
+			<string>Solid Shampoo Bar</string>
+			<string>Shampoo</string>
+			<string>Lip Scrub</string>
+		</array>
+	</dict>
+	<key>Juniperberry Oil</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Jumping Juniper</string>
+			<string>T&apos;eo</string>
+			<string>Miranda</string>
+			<string>Rehab</string>
+			<string>Tea Tree Water</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Jumping Juniper</string>
+			<string>T&apos;eo</string>
+			<string>Miranda</string>
+			<string>Rehab</string>
+			<string>Tea Tree Water</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Solid Shampoo Bar</string>
+			<string>Solid Deodorant Bar</string>
+			<string>Hand And Body Soap</string>
+			<string>Shampoo</string>
+			<string>Toner Water</string>
+		</array>
+	</dict>
+	<key>Kaolin</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Volcano</string>
+			<string>Brazened Honey</string>
+			<string>T For Toes</string>
+			<string>Herbalism</string>
+			<string>Silky Underwear</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Volcano</string>
+			<string>Brazened Honey</string>
+			<string>T For Toes</string>
+			<string>Herbalism</string>
+			<string>Silky Underwear</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Foot Mask</string>
+			<string>Fresh Face Mask</string>
+			<string>Foot Powder</string>
+			<string>Facial Cleanser</string>
+			<string>Dusting Powder</string>
+		</array>
+	</dict>
+	<key>Labdanum Resinoid</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Rose Queen</string>
+			<string>Floating Island</string>
+			<string>Sympathy For The Skin</string>
+			<string>Almond And Coconut Smoothie</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Rose Queen</string>
+			<string>Floating Island</string>
+			<string>Sympathy For The Skin</string>
+			<string>Almond And Coconut Smoothie</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Bath Bomb</string>
+			<string>Bath Melt</string>
+			<string>Hand And Body Lotion</string>
+			<string>Shower Smoothie</string>
+		</array>
+	</dict>
+	<key>Lanolin</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Lemony Flutter</string>
+			<string>American Cream</string>
+			<string>H&apos;suan Hua Wen</string>
+			<string>Retread</string>
+			<string>Jackie Oates</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Lemony Flutter</string>
+			<string>American Cream</string>
+			<string>H&apos;suan Hua Wen</string>
+			<string>Retread</string>
+			<string>Jackie Oates</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Cuticle Butter</string>
+			<string>Hair Conditioner</string>
+			<string>Hair Treatment</string>
+			<string>Hair Conditioner</string>
+			<string>Color Supplement</string>
+		</array>
+	</dict>
+	<key>Laureth 4</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Dreamtime</string>
+			<string>You&apos;ve Been Mangoed</string>
+			<string>Aqua Mirablis</string>
+			<string>You Snap The Whip</string>
+			<string>Mmm</string>
+			<string>Floating Island</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Dreamtime</string>
+			<string>You&apos;ve Been Mangoed</string>
+			<string>Aqua Mirablis</string>
+			<string>You Snap The Whip</string>
+			<string>Mmm</string>
+			<string>Floating Island</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Bath Melt</string>
+			<string>Bath Melt</string>
+			<string>Body Butter</string>
+			<string>Body Butter</string>
+			<string>Bath Melt</string>
+			<string>Bath Melt</string>
+		</array>
+	</dict>
+	<key>Lauryl Betaine</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Ice Blue</string>
+			<string>Karma Bubble Bar</string>
+			<string>Amandopondo</string>
+			<string>The Comforter</string>
+			<string>Cynthia Sylvia Stout</string>
+			<string>Happy Hippy</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Ice Blue</string>
+			<string>Karma Bubble Bar</string>
+			<string>Amandopondo</string>
+			<string>The Comforter</string>
+			<string>Cynthia Sylvia Stout</string>
+			<string>Happy Hippy</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Hand And Body Soap</string>
+			<string>Bubble Bar</string>
+			<string>Bubble Bar</string>
+			<string>Bubble Bar</string>
+			<string>Shampoo</string>
+			<string>Shower Gel</string>
+		</array>
+	</dict>
+	<key>Lavender Absolute</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>French Kiss</string>
+			<string>Golden Slumbers</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>French Kiss</string>
+			<string>Golden Slumbers</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Bubble Bar</string>
+			<string>Bath Bomb</string>
+		</array>
+	</dict>
+	<key>Lavender Flowers</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Angels On Bare Skin</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Angels On Bare Skin</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Facial Cleanser</string>
+		</array>
+	</dict>
+	<key>Lavender Infusion</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Imperialis</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Imperialis</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Facial Moisturizer</string>
+		</array>
+	</dict>
+	<key>Lavender Oil</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Love Lettuce</string>
+			<string>Superbalm</string>
+			<string>Sea Vegetable</string>
+			<string>Dream Cream</string>
+			<string>Lemony Flutter</string>
+			<string>Angels On Bare Skin</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Love Lettuce</string>
+			<string>Superbalm</string>
+			<string>Sea Vegetable</string>
+			<string>Dream Cream</string>
+			<string>Lemony Flutter</string>
+			<string>Angels On Bare Skin</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Fresh Face Mask</string>
+			<string>Scalp Treatment</string>
+			<string>Hand And Body Soap</string>
+			<string>Hand And Body Lotion</string>
+			<string>Cuticle Butter</string>
+			<string>Facial Cleanser</string>
+		</array>
+	</dict>
+	<key>Lavendin Oil</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Karma Perfume</string>
+			<string>Karma Bubble Bar</string>
+			<string>Karma Kream</string>
+			<string>Karma Soap</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Karma Perfume</string>
+			<string>Karma Bubble Bar</string>
+			<string>Karma Kream</string>
+			<string>Karma Soap</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Gorilla Perfume</string>
+			<string>Bubble Bar</string>
+			<string>Hand And Body Lotion</string>
+			<string>Hand And Body Soap</string>
+		</array>
+	</dict>
+	<key>Lemon Juice</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Marilyn</string>
+			<string>Sexy Peel</string>
+			<string>Gorgeous</string>
+			<string>Veganese</string>
+			<string>Cynthia Sylvia Stout</string>
+			<string>Curly Wurly</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Marilyn</string>
+			<string>Sexy Peel</string>
+			<string>Gorgeous</string>
+			<string>Veganese</string>
+			<string>Cynthia Sylvia Stout</string>
+			<string>Curly Wurly</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Hair Treatment</string>
+			<string>Hand And Body Soap</string>
+			<string>Facial Moisturizer</string>
+			<string>Hair Conditioner</string>
+			<string>Shampoo</string>
+			<string>Shampoo</string>
+		</array>
+	</dict>
+	<key>Lemon Peel</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Sexy Peel</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Sexy Peel</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Hand And Body Soap</string>
+		</array>
+	</dict>
+	<key>Lime Flower And Cleaver Decoction</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Volcano</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Volcano</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Foot Mask</string>
+		</array>
+	</dict>
+	<key>Lime Oil</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Ocean Salt</string>
+			<string>Green Fun</string>
+			<string>No Drought</string>
+			<string>Each Peach (And Two&apos;s A Pair)</string>
+			<string>Enzymion</string>
+			<string>Sea Vegetable</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Ocean Salt</string>
+			<string>Green Fun</string>
+			<string>No Drought</string>
+			<string>Each Peach (And Two&apos;s A Pair)</string>
+			<string>Enzymion</string>
+			<string>Sea Vegetable</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Face And Body Scrub</string>
+			<string>Bubble Bar</string>
+			<string>Dry Shampoo</string>
+			<string>Massage Bar</string>
+			<string>Facial Moisturizer</string>
+			<string>Hand And Body Soap</string>
+		</array>
+	</dict>
+	<key>Linalool</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Jasmine &amp; Henna Fluff Ease</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Jasmine &amp; Henna Fluff Ease</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Hair Treatment</string>
+		</array>
+	</dict>
+	<key>Liquorice Root Decoction</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Coalface</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Coalface</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Facial Cleanser</string>
+		</array>
+	</dict>
+	<key>Litsea Cubeba Oi</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>25:43 Perfume</string>
+			<string>Sandstone</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>25:43 Perfume</string>
+			<string>Sandstone</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Gorilla Perfume</string>
+			<string>Hand And Body Soap</string>
+		</array>
+	</dict>
+	<key>Macadamia Nut Oil</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>You Snap The Whip</string>
+			<string>Godiva</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>You Snap The Whip</string>
+			<string>Godiva</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Body Butter</string>
+			<string>Solid Shampoo Bar</string>
+		</array>
+	</dict>
+	<key>Magnesium Carbonate</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Vanilla Puff</string>
+			<string>No Drought</string>
+			<string>Lustre</string>
+			<string>Coconut</string>
+			<string>T&apos;eo</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Vanilla Puff</string>
+			<string>No Drought</string>
+			<string>Lustre</string>
+			<string>Coconut</string>
+			<string>T&apos;eo</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Dusting Powder</string>
+			<string>Dry Shampoo</string>
+			<string>Dusting Powder</string>
+			<string>Deodorant Powder</string>
+			<string>Solid Deodorant Bar</string>
+		</array>
+	</dict>
+	<key>Mandarin And Rosemary Infusion</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Coco Lotion</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Coco Lotion</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Hand And Body Lotion</string>
+		</array>
+	</dict>
+	<key>Mandarin Oil</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Red Fun</string>
+			<string>Each Peach (And Two&apos;s A Pair)</string>
+			<string>Pop In The Bath</string>
+			<string>The Olive Branch</string>
+			<string>You&apos;ve Been Mangoed</string>
+			<string>Big Shampoo</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Red Fun</string>
+			<string>Each Peach (And Two&apos;s A Pair)</string>
+			<string>Pop In The Bath</string>
+			<string>The Olive Branch</string>
+			<string>You&apos;ve Been Mangoed</string>
+			<string>Big Shampoo</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Bubble Bar</string>
+			<string>Massage Bar</string>
+			<string>Bubble Bar</string>
+			<string>Shower Gel</string>
+			<string>Bath Melt</string>
+			<string>Shampoo</string>
+		</array>
+	</dict>
+	<key>Mango Butter</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Mange Too</string>
+			<string>You&apos;ve Been Mangoed</string>
+			<string>Each Peach (And Two&apos;s A Pair)</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Mange Too</string>
+			<string>You&apos;ve Been Mangoed</string>
+			<string>Each Peach (And Two&apos;s A Pair)</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Massage Bar</string>
+			<string>Bath Melt</string>
+			<string>Massage Bar</string>
+		</array>
+	</dict>
+	<key>Marigold Flowers</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Fresh Farmacy</string>
+			<string>Soak And Float</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Fresh Farmacy</string>
+			<string>Soak And Float</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Facial Cleanser</string>
+			<string>Solid Shampoo Bar</string>
+		</array>
+	</dict>
+	<key>Marshmallow Mucilage</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Putty For Your Hands</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Putty For Your Hands</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Hand Putty</string>
+		</array>
+	</dict>
+	<key>Meadowsweet Infusion</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Lovely Jubblies</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Lovely Jubblies</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Breast Cream</string>
+		</array>
+	</dict>
+	<key>Methylparaben</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Eau Roma Water</string>
+			<string>Tea Tree Water</string>
+			<string>Enchanted Eye Cream</string>
+			<string>Flying Fox</string>
+			<string>Daddy-O</string>
+			<string>H&apos;suan Wen Hua</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Eau Roma Water</string>
+			<string>Tea Tree Water</string>
+			<string>Enchanted Eye Cream</string>
+			<string>Flying Fox</string>
+			<string>Daddy-O</string>
+			<string>H&apos;suan Wen Hua</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Toner Water</string>
+			<string>Toner Water</string>
+			<string>Eye Cream</string>
+			<string>Shower Gel</string>
+			<string>Shampoo</string>
+			<string>Hair Treatment</string>
+		</array>
+	</dict>
+	<key>Millet Flakes</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>BB Seaweed</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>BB Seaweed</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Fresh Face Mask</string>
+		</array>
+	</dict>
+	<key>Mimosa Absolute</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Sakura</string>
+			<string>Seanik</string>
+			<string>Rub Rub Rub</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Sakura</string>
+			<string>Seanik</string>
+			<string>Rub Rub Rub</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Bath Bomb</string>
+			<string>Solid Shampoo Bar</string>
+			<string>Body Scrub</string>
+		</array>
+	</dict>
+	<key>Mint</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Demon In The Dark</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Demon In The Dark</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Hand And Body Soap</string>
+		</array>
+	</dict>
+	<key>Mullein Leaf Infusion</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Imperialis</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Imperialis</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Facial Moisturizer</string>
+		</array>
+	</dict>
+	<key>Murumuru Butter</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Full Of Grace</string>
+			<string>None Of Beeswax</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Full Of Grace</string>
+			<string>None Of Beeswax</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Facial Serum</string>
+			<string>Lip Balm</string>
+		</array>
+	</dict>
+	<key>Myrrh Resinoid</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Miranda</string>
+			<string>Gorgeous</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Miranda</string>
+			<string>Gorgeous</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Hand And Body Soap</string>
+			<string>Facial Moisturizer</string>
+		</array>
+	</dict>
+	<key>Natural Yoghurt</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Retread</string>
+			<string>The Sacred Truth</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Retread</string>
+			<string>The Sacred Truth</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Hair Conditioner</string>
+			<string>Fresh Face Mask</string>
+		</array>
+	</dict>
+	<key>Neroli Oil</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Shine So Bright</string>
+			<string>Gorgeous</string>
+			<string>Skin Drink</string>
+			<string>Therapy</string>
+			<string>Breath Of God Fragrance</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Shine So Bright</string>
+			<string>Gorgeous</string>
+			<string>Skin Drink</string>
+			<string>Therapy</string>
+			<string>Breath Of God Fragrance</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Split End Treatment</string>
+			<string>Facial Moisturizer</string>
+			<string>Facial Moisturizer</string>
+			<string>Massage Bar</string>
+			<string>Gorilla Perfume</string>
+		</array>
+	</dict>
+	<key>Nettle</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Squeaky Green</string>
+			<string>New!</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Squeaky Green</string>
+			<string>New!</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Solid Shampoo Bar</string>
+			<string>Solid Shampoo Bar</string>
+		</array>
+	</dict>
+	<key>Nettle Aboslute</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>New!</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>New!</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Solid Shampoo Bar</string>
+		</array>
+	</dict>
+	<key>Nettle_ Rosemary_ Rice Vinegar Extract</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Herbalism</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Herbalism</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Facial Cleanser</string>
+		</array>
+	</dict>
+	<key>Nori Seaweed</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Seanik</string>
+			<string>Aqua Marina</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Seanik</string>
+			<string>Aqua Marina</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Solid Shampoo Bar</string>
+			<string>Facial Cleanser</string>
+		</array>
+	</dict>
+	<key>Olibanum Oil</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Strawberry Feels Forever</string>
+			<string>Sultana Of Soap</string>
+			<string>The Enchanter</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Strawberry Feels Forever</string>
+			<string>Sultana Of Soap</string>
+			<string>The Enchanter</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Massage Bar</string>
+			<string>Hand And Body Soap</string>
+			<string>Bath Bomb</string>
+		</array>
+	</dict>
+	<key>Olive Oil</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Gorgeous</string>
+			<string>Dream Cream</string>
+			<string>Imperialis</string>
+			<string>Jasmine &amp; Henna Fluff Ease</string>
+			<string>Honey Trap</string>
+			<string>Retread</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Gorgeous</string>
+			<string>Dream Cream</string>
+			<string>Imperialis</string>
+			<string>Jasmine &amp; Henna Fluff Ease</string>
+			<string>Honey Trap</string>
+			<string>Retread</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Facial Moisturizer</string>
+			<string>Hand And Body Lotion</string>
+			<string>Facial Moisturizer</string>
+			<string>Hair Treatment</string>
+			<string>Lip Balm</string>
+			<string>Hair Conditioner</string>
+		</array>
+	</dict>
+	<key>Orange Blossom Absolute</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Happy Happy Joy Joy</string>
+			<string>Gorgeous</string>
+			<string>The Olive Branch</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Happy Happy Joy Joy</string>
+			<string>Gorgeous</string>
+			<string>The Olive Branch</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Hair Conditioner</string>
+			<string>Facial Moisturizer</string>
+			<string>Shower Gel</string>
+		</array>
+	</dict>
+	<key>Orange Oil</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Karma Perfume</string>
+			<string>Karma Komba</string>
+			<string>Red Fun</string>
+			<string>Karma Bubble Bar</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Karma Perfume</string>
+			<string>Karma Komba</string>
+			<string>Red Fun</string>
+			<string>Karma Bubble Bar</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Gorilla Perfume</string>
+			<string>Solid Shampoo Bar</string>
+			<string>Bubble Bar</string>
+			<string>Bubble Bar</string>
+		</array>
+	</dict>
+	<key>Orange Peel</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Sexy Peel</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Sexy Peel</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Hand And Body Soap</string>
+		</array>
+	</dict>
+	<key>Organic Cashew Nut Butte</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Handy Gurugu</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Handy Gurugu</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Hand Cream</string>
+		</array>
+	</dict>
+	<key>Organic Castor Oil</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>A Million Kisses</string>
+			<string>None Of You Beeswax</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>A Million Kisses</string>
+			<string>None Of You Beeswax</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Lip Tint</string>
+			<string>Lip Balm</string>
+		</array>
+	</dict>
+	<key>Organic Pumpkinseed Butter</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Handy Gurugu</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Handy Gurugu</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Hand Cream</string>
+		</array>
+	</dict>
+	<key>Orris Absolute</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Big Shampoo</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Big Shampoo</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Shampoo</string>
+		</array>
+	</dict>
+	<key>Palmarossa Oil</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Flying Fox</string>
+			<string>Godiva</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Flying Fox</string>
+			<string>Godiva</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Shower Gel</string>
+			<string>Solid Shampoo Bar</string>
+		</array>
+	</dict>
+	<key>Patchouli Oil</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Karma Perfume</string>
+			<string>Karma Komba</string>
+			<string>Blue Skies &amp; Fluffy White Clouds</string>
+			<string>Aromaco</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Karma Perfume</string>
+			<string>Karma Komba</string>
+			<string>Blue Skies &amp; Fluffy White Clouds</string>
+			<string>Aromaco</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Gorilla Perfume</string>
+			<string>Solid Shampoo Bar</string>
+			<string>Bubble Bar</string>
+			<string>Solid Deodorant Bar</string>
+		</array>
+	</dict>
+	<key>Peanut Oil</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Coco Lotion</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Coco Lotion</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Hand And Body Lotion</string>
+		</array>
+	</dict>
+	<key>Peg-100 Stearate</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Trichomania</string>
+			<string>Jungle</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Trichomania</string>
+			<string>Jungle</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Solid Shampoo Bar</string>
+			<string>Solid Hair Conditioner</string>
+		</array>
+	</dict>
+	<key>Peg-6 Caprylic/ Capric Glycerides &amp; Peg60 Almond Glycerides</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Happy Blooming</string>
+			<string>Phoenix Rising</string>
+			<string>Rose Jam</string>
+			<string>Yuzu And Cocoa</string>
+			<string>Green</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Happy Blooming</string>
+			<string>Phoenix Rising</string>
+			<string>Rose Jam</string>
+			<string>Yuzu And Cocoa</string>
+			<string>Green</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Bath Melt</string>
+			<string>Bath Bomb</string>
+			<string>Bubbleroon</string>
+			<string>Bubbleroon</string>
+			<string>Bubbleroon</string>
+		</array>
+	</dict>
+	<key>Perfume</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Squeaky Green</string>
+			<string>Karma Perfume</string>
+			<string>25:43</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Squeaky Green</string>
+			<string>Karma Perfume</string>
+			<string>25:43</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Solid Shampoo Bar</string>
+			<string>Gorilla Perfume</string>
+			<string>Gorilla Perfume</string>
+		</array>
+	</dict>
+	<key>Petigrain Oil</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Fizzbanger</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Fizzbanger</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Bath Bomb</string>
+		</array>
+	</dict>
+	<key>Phenoxyethanol</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>R&amp;B</string>
+			<string>Lovely Jubblies</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>R&amp;B</string>
+			<string>Lovely Jubblies</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Hair Moisturizer</string>
+			<string>Breast Cream</string>
+		</array>
+	</dict>
+	<key>Pine Absolute</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Geo Phyzz</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Geo Phyzz</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Bath Bomb</string>
+		</array>
+	</dict>
+	<key>Potatoes</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Volcano</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Volcano</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Foot Mask</string>
+		</array>
+	</dict>
+	<key>Powdered Broom Tops</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>T For Toes</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>T For Toes</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Foot Powder</string>
+		</array>
+	</dict>
+	<key>Powdered Walnut Leaf</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>T For Toes</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>T For Toes</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Foot Powder</string>
+		</array>
+	</dict>
+	<key>Propylene Glycol</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Sea Vegetable</string>
+			<string>Veganese</string>
+			<string>Sweetie Pie</string>
+			<string>Skin Drink</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Sea Vegetable</string>
+			<string>Veganese</string>
+			<string>Sweetie Pie</string>
+			<string>Skin Drink</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Hand And Body Soap</string>
+			<string>Hair Conditioner</string>
+			<string>Shower Jelly</string>
+			<string>Facial Moisturizer</string>
+		</array>
+	</dict>
+	<key>Propylparaben</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Flying Fox</string>
+			<string>Independent</string>
+			<string>Enchanted Eye Cream</string>
+			<string>Cynthia Sylvia Stout</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Flying Fox</string>
+			<string>Independent</string>
+			<string>Enchanted Eye Cream</string>
+			<string>Cynthia Sylvia Stout</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Shower Gel</string>
+			<string>Emotional Brilliance</string>
+			<string>Eye Cream</string>
+			<string>Shampoo</string>
+		</array>
+	</dict>
+	<key>Pumice</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Volcano</string>
+			<string>Stepping Stone</string>
+			<string>You Snap The Whip</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Volcano</string>
+			<string>Stepping Stone</string>
+			<string>You Snap The Whip</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Foot Mask</string>
+			<string>Foot Scrub</string>
+			<string>Body Butter</string>
+		</array>
+	</dict>
+	<key>Pvp</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Fantasy</string>
+			<string>Sea Spray</string>
+			<string>Eyes Right</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Fantasy</string>
+			<string>Sea Spray</string>
+			<string>Eyes Right</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Emotional Brilliance</string>
+			<string>Hair Mist</string>
+			<string>Mascara</string>
+		</array>
+	</dict>
+	<key>Queen Of Hungary Water</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Skins Shangri-La</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Skins Shangri-La</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Facial Moisturizer</string>
+		</array>
+	</dict>
+	<key>Rapeseed Oil</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Figs And Leaves</string>
+			<string>Sexy Peel</string>
+			<string>Turkish Delight</string>
+			<string>Porridge</string>
+			<string>Sultana Of Soap</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Figs And Leaves</string>
+			<string>Sexy Peel</string>
+			<string>Turkish Delight</string>
+			<string>Porridge</string>
+			<string>Sultana Of Soap</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Hand And Body Soap</string>
+			<string>Hand And Body Soap</string>
+			<string>Shower Smoothie</string>
+			<string>Hand And Body Soap</string>
+			<string>Hand And Body Soap</string>
+		</array>
+	</dict>
+	<key>Red Henna</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Caca Marron Mama</string>
+			<string>Caca Rouge Mama</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Caca Marron Mama</string>
+			<string>Caca Rouge Mama</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Henna Hair Color</string>
+			<string>Henna Hair Color</string>
+		</array>
+	</dict>
+	<key>Rhassoul Mud</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Dark Angels</string>
+			<string>Cupcake</string>
+			<string>Honey B</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Dark Angels</string>
+			<string>Cupcake</string>
+			<string>Honey B</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Facial Cleanser</string>
+			<string>Fresh Face Mask</string>
+			<string>Bath Bomb</string>
+		</array>
+	</dict>
+	<key>Rice Bran</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Dark Pink</string>
+			<string>Dark Yellow</string>
+			<string>Light Yellow</string>
+			<string>Light Pink</string>
+			<string>Herbalism</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Dark Pink</string>
+			<string>Dark Yellow</string>
+			<string>Light Yellow</string>
+			<string>Light Pink</string>
+			<string>Herbalism</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Color Supplement</string>
+			<string>Color Supplement</string>
+			<string>Color Supplement</string>
+			<string>Color Supplement</string>
+			<string>Facial Cleanser</string>
+		</array>
+	</dict>
+	<key>Rice Paper Flower</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Sex Bomb</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Sex Bomb</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Bath Bomb</string>
+		</array>
+	</dict>
+	<key>Rose Absolute</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Tisty Tosty</string>
+			<string>Aqua Mirabilis</string>
+			<string>Daddy-O</string>
+			<string>Dream Cream</string>
+			<string>Amandapondo</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Tisty Tosty</string>
+			<string>Aqua Mirabilis</string>
+			<string>Daddy-O</string>
+			<string>Dream Cream</string>
+			<string>Amandapondo</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Bath Bomb</string>
+			<string>Body Butter</string>
+			<string>Shampoo</string>
+			<string>Hand And Body Lotion</string>
+			<string>Bubble Bar</string>
+		</array>
+	</dict>
+	<key>Rose Oil</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Breath Of God Perfume</string>
+			<string>Imogen Rose Perfume</string>
+			<string>Turkish Delight</string>
+			<string>Rose Jam</string>
+			<string>Happy Happy Joy Joy</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Breath Of God Perfume</string>
+			<string>Imogen Rose Perfume</string>
+			<string>Turkish Delight</string>
+			<string>Rose Jam</string>
+			<string>Happy Happy Joy Joy</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Gorilla Perfume</string>
+			<string>Gorilla Perfume</string>
+			<string>Shower Smoothie</string>
+			<string>Bubbleroon</string>
+			<string>Hair Conditioner</string>
+		</array>
+	</dict>
+	<key>Rose Petals</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Soak And Float</string>
+			<string>BB Seaweed</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Soak And Float</string>
+			<string>BB Seaweed</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Solid Shampoo Bar</string>
+			<string>Fresh Face Mask</string>
+		</array>
+	</dict>
+	<key>Rose Water</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Turkish Delight</string>
+			<string>Handy Gurugu</string>
+			<string>Ultrabland</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Turkish Delight</string>
+			<string>Handy Gurugu</string>
+			<string>Ultrabland</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Shower Smoothie</string>
+			<string>Hand Cream</string>
+			<string>Facial Cleanser</string>
+		</array>
+	</dict>
+	<key>Rose Wax</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Superbalm</string>
+			<string>Ambition</string>
+			<string>Ultrabalm</string>
+			<string>Confident</string>
+			<string>Perspective</string>
+			<string>Strong</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Superbalm</string>
+			<string>Ambition</string>
+			<string>Ultrabalm</string>
+			<string>Confident</string>
+			<string>Perspective</string>
+			<string>Strong</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Scalp Treatmentt</string>
+			<string>Emotional Brilliance</string>
+			<string>All Purpose Balm</string>
+			<string>Emotional Brilliance</string>
+			<string>Emotional Brilliance</string>
+			<string>Emotional Brilliance</string>
+		</array>
+	</dict>
+	<key>Rosehip</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Its Raining Men</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Its Raining Men</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Shower Gel</string>
+		</array>
+	</dict>
+	<key>Rosemary And Juniperberry Infusion</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Brazened Honey</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Brazened Honey</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Fresh Face Mask</string>
+		</array>
+	</dict>
+	<key>Rosemary And Tea Tree Infusion</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Grease Lightning</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Grease Lightning</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Spot Treatment</string>
+		</array>
+	</dict>
+	<key>Rosemary Oil</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>French Kiss</string>
+			<string>Breath Of Fresh Air</string>
+			<string>BB Seaweed</string>
+			<string>Squeaky Green</string>
+			<string>H&apos;suan Wen Hua</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>French Kiss</string>
+			<string>Breath Of Fresh Air</string>
+			<string>BB Seaweed</string>
+			<string>Squeaky Green</string>
+			<string>H&apos;suan Wen Hua</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Bubble Bar</string>
+			<string>Toner Water</string>
+			<string>Fresh Face Mask</string>
+			<string>Solid Shampoo Bar</string>
+			<string>Hair Treatment</string>
+		</array>
+	</dict>
+	<key>Rosewood Oil</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Shine So Bright</string>
+			<string>Happy Happy Joy Joy</string>
+			<string>The Sacred Truth</string>
+			<string>Avobath</string>
+			<string>Coalface</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Shine So Bright</string>
+			<string>Happy Happy Joy Joy</string>
+			<string>The Sacred Truth</string>
+			<string>Avobath</string>
+			<string>Coalface</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Split End Treatment</string>
+			<string>Hair Conditioner</string>
+			<string>Fresh Face Mask</string>
+			<string>Bath Bomb</string>
+			<string>Facial Cleanser</string>
+		</array>
+	</dict>
+	<key>Saffron</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Crème Anglaise</string>
+			<string>Marilyn</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Crème Anglaise</string>
+			<string>Marilyn</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Hand And Body Lotion</string>
+			<string>Hair Treatment</string>
+		</array>
+	</dict>
+	<key>Salt</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Ocean Salt</string>
+			<string>I Love Juicy</string>
+			<string>Rehab</string>
+			<string>Rub Rub Rub</string>
+			<string>Aqua Marina</string>
+			<string>Seanik</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Ocean Salt</string>
+			<string>I Love Juicy</string>
+			<string>Rehab</string>
+			<string>Rub Rub Rub</string>
+			<string>Aqua Marina</string>
+			<string>Seanik</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Face And Body Scrub</string>
+			<string>Shampoo</string>
+			<string>Shampoo</string>
+			<string>Body Scrub</string>
+			<string>Facial Cleanser</string>
+			<string>Solid Shampoo Bar</string>
+		</array>
+	</dict>
+	<key>Sand</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Sandstone</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Sandstone</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Hand And Body Soap</string>
+		</array>
+	</dict>
+	<key>Sandalwood Oil</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Ickle Baby Bot</string>
+			<string>Aqua Mirabilis</string>
+			<string>Dreamtime</string>
+			<string>Geo Phyzz</string>
+			<string>Coalface</string>
+			<string>Dirty Shaving Cream</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Ickle Baby Bot</string>
+			<string>Aqua Mirabilis</string>
+			<string>Dreamtime</string>
+			<string>Geo Phyzz</string>
+			<string>Coalface</string>
+			<string>Dirty Shaving Cream</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Bath Bomb</string>
+			<string>Body Butter</string>
+			<string>Bath Melt</string>
+			<string>Bath Bomb</string>
+			<string>Facial Cleanser</string>
+			<string>Shaving Cream</string>
+		</array>
+	</dict>
+	<key>Seaweed Absolute</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Geo Phyzz</string>
+			<string>Breath Of Fresh Air</string>
+			<string>Big Blue</string>
+			<string>Sea Vegetable</string>
+			<string>BB Seaweed</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Geo Phyzz</string>
+			<string>Breath Of Fresh Air</string>
+			<string>Big Blue</string>
+			<string>Sea Vegetable</string>
+			<string>BB Seaweed</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Bath Bomb</string>
+			<string>Toner Water</string>
+			<string>Bath Bomb</string>
+			<string>Hand And Body Soap</string>
+			<string>Fresh Face Mask</string>
+		</array>
+	</dict>
+	<key>Sesame Oil</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Skin Drink</string>
+			<string>Coco Lotion</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Skin Drink</string>
+			<string>Coco Lotion</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Facial Moisturizer</string>
+			<string>Hand And Body Lotion</string>
+		</array>
+	</dict>
+	<key>Shea Butter</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Mange Too</string>
+			<string>Lemony Flutter</string>
+			<string>Soft Coeur</string>
+			<string>Cosmetic Lad</string>
+			<string>Crème Anglaise</string>
+			<string>Honey Trap</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Mange Too</string>
+			<string>Lemony Flutter</string>
+			<string>Soft Coeur</string>
+			<string>Cosmetic Lad</string>
+			<string>Crème Anglaise</string>
+			<string>Honey Trap</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Massage Bar</string>
+			<string>Cuticle Butter</string>
+			<string>Massage Bar</string>
+			<string>Facial Moisturizer</string>
+			<string>Hand And Body Lotion</string>
+			<string>Lip Balm</string>
+		</array>
+	</dict>
+	<key>Sodium Alkyl Sulfate</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Rehab</string>
+			<string>Daddy-O</string>
+			<string>I Love Juicy</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Rehab</string>
+			<string>Daddy-O</string>
+			<string>I Love Juicy</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Shampoo</string>
+			<string>Shampoo</string>
+			<string>Shampoo</string>
+		</array>
+	</dict>
+	<key>Sodium Bicarbonate</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>The Comforter</string>
+			<string>Blackberry</string>
+			<string>The Greeench</string>
+			<string>Aromaco</string>
+			<string>Ultrablast</string>
+			<string>Stepping Stone</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>The Comforter</string>
+			<string>Blackberry</string>
+			<string>The Greeench</string>
+			<string>Aromaco</string>
+			<string>Ultrablast</string>
+			<string>Stepping Stone</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Bubble Bar</string>
+			<string>Bath Bomb</string>
+			<string>Deodorant Powder</string>
+			<string>Solid Deodorant Bar</string>
+			<string>Toothy Tabs</string>
+			<string>Foot Scrub</string>
+		</array>
+	</dict>
+	<key>Sodium Borate</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Lemony Flutter</string>
+			<string>Ultrabland</string>
+			<string>Whipstick</string>
+			<string>Honey Trap</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Lemony Flutter</string>
+			<string>Ultrabland</string>
+			<string>Whipstick</string>
+			<string>Honey Trap</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Cuticle Butter</string>
+			<string>Facial Cleanser</string>
+			<string>Lip Balm</string>
+			<string>Lip Balm</string>
+		</array>
+	</dict>
+	<key>Sodium Cocoamphoacetate</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Karma Komba</string>
+			<string>Flying Fox</string>
+			<string>Dirty Spring Wash</string>
+			<string>Rub Rub Rub</string>
+			<string>The Olive Branch</string>
+			<string>Happy Hippy</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Karma Komba</string>
+			<string>Flying Fox</string>
+			<string>Dirty Spring Wash</string>
+			<string>Rub Rub Rub</string>
+			<string>The Olive Branch</string>
+			<string>Happy Hippy</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Solid Shampoo Bar</string>
+			<string>Shower Gel</string>
+			<string>Shower Gel</string>
+			<string>Body Scrub</string>
+			<string>Shower Gel</string>
+			<string>Shower Gel</string>
+		</array>
+	</dict>
+	<key>Sodium Hydroxide</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Sultana Of Soap</string>
+			<string>Miranda</string>
+			<string>Sandstone</string>
+			<string>Honey I Washed The Kids</string>
+			<string>Bohemian</string>
+			<string>Karma Soap</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Sultana Of Soap</string>
+			<string>Miranda</string>
+			<string>Sandstone</string>
+			<string>Honey I Washed The Kids</string>
+			<string>Bohemian</string>
+			<string>Karma Soap</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Hand And Body Soap</string>
+			<string>Hand And Body Soap</string>
+			<string>Hand And Body Soap</string>
+			<string>Hand And Body Soap</string>
+			<string>Hand And Body Soap</string>
+			<string>Hand And Body Soap</string>
+		</array>
+	</dict>
+	<key>Sodium Laureth Sulfate</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Happy Hippy</string>
+			<string>Sweetie Pie</string>
+			<string>Blue Skies &amp; Fluffy White Clouds</string>
+			<string>Flying Fox</string>
+			<string>Big Shampoo</string>
+			<string>Fair Trade Honey</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Happy Hippy</string>
+			<string>Sweetie Pie</string>
+			<string>Blue Skies &amp; Fluffy White Clouds</string>
+			<string>Flying Fox</string>
+			<string>Big Shampoo</string>
+			<string>Fair Trade Honey</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Shower Gel</string>
+			<string>Shower Jelly</string>
+			<string>Bubble Bar</string>
+			<string>Shower Gel</string>
+			<string>Shampoo</string>
+			<string>Shampoo</string>
+		</array>
+	</dict>
+	<key>Sodium Lauroyl Sarcosinate</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Sparkle</string>
+			<string>I Love Juicy</string>
+			<string>Dark Angels</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Sparkle</string>
+			<string>I Love Juicy</string>
+			<string>Dark Angels</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Toothy Tabs</string>
+			<string>Shampoo</string>
+			<string>Facial Cleanser</string>
+		</array>
+	</dict>
+	<key>Sodium Lauryl Sulfate</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Soak And Float</string>
+			<string>Karma Komba</string>
+			<string>Godiva</string>
+			<string>Trichomania</string>
+			<string>Rock Star</string>
+			<string>Porridge</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Soak And Float</string>
+			<string>Karma Komba</string>
+			<string>Godiva</string>
+			<string>Trichomania</string>
+			<string>Rock Star</string>
+			<string>Porridge</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Solid Shampoo Bar</string>
+			<string>Solid Shampoo Bar</string>
+			<string>Solid Shampoo Bar</string>
+			<string>Solid Shampoo Bar</string>
+			<string>Hand And Body Soap</string>
+			<string>Hand And Body Soap</string>
+		</array>
+	</dict>
+	<key>Sodium Sesquicarbonate</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Sex Bomb</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Sex Bomb</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Bath Bomb</string>
+		</array>
+	</dict>
+	<key>Sodium Stearate</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Aromaco</string>
+			<string>Coalface</string>
+			<string>Fresh Farmacy</string>
+			<string>Miranda</string>
+			<string>Ice Blue</string>
+			<string>Honey I Washed The Kids</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Aromaco</string>
+			<string>Coalface</string>
+			<string>Fresh Farmacy</string>
+			<string>Miranda</string>
+			<string>Ice Blue</string>
+			<string>Honey I Washed The Kids</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Solid Deodorant Bar</string>
+			<string>Facial Cleanser</string>
+			<string>Facial Cleanser</string>
+			<string>Hand And Body Soap</string>
+			<string>Hand And Body Soap</string>
+			<string>Hand And Body Soap</string>
+		</array>
+	</dict>
+	<key>Sorbitol</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Chou Chou… I Love You</string>
+			<string>Sparkle</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Chou Chou… I Love You</string>
+			<string>Sparkle</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Toothy Tabs</string>
+			<string>Toothy Tabs</string>
+		</array>
+	</dict>
+	<key>Soya Lecithin</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Trichomania</string>
+			<string>Blousey</string>
+			<string>The Hair Doctor</string>
+			<string>Jungle</string>
+			<string>Marilyn</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Trichomania</string>
+			<string>Blousey</string>
+			<string>The Hair Doctor</string>
+			<string>Jungle</string>
+			<string>Marilyn</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Solid Shampoo Bar</string>
+			<string>Shampoo</string>
+			<string>Hair Mask</string>
+			<string>Solid Hair Conditioner</string>
+			<string>Hair Treatment</string>
+		</array>
+	</dict>
+	<key>Soya Oil</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Dark Pink</string>
+			<string>Dark Yellow</string>
+			<string>Light Yellow</string>
+			<string>Light Pink</string>
+			<string>Lemony Flutter</string>
+			<string>Jasmine &amp; Henna Fluff Ease</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Dark Pink</string>
+			<string>Dark Yellow</string>
+			<string>Light Yellow</string>
+			<string>Light Pink</string>
+			<string>Lemony Flutter</string>
+			<string>Jasmine &amp; Henna Fluff Ease</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Color Supplement</string>
+			<string>Color Supplement</string>
+			<string>Color Supplement</string>
+			<string>Color Supplement</string>
+			<string>Cuticle Butter</string>
+			<string>Hair Treatment</string>
+		</array>
+	</dict>
+	<key>Spearmint Oil</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Dirty Toothy Tabs</string>
+			<string>Fair Trade Foot Lotion</string>
+			<string>Cupcake</string>
+			<string>Demon In The Dark</string>
+			<string>Dirty Soap</string>
+			<string>Dirty Springwash</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Dirty Toothy Tabs</string>
+			<string>Fair Trade Foot Lotion</string>
+			<string>Cupcake</string>
+			<string>Demon In The Dark</string>
+			<string>Dirty Soap</string>
+			<string>Dirty Springwash</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Toothy Tabs</string>
+			<string>Foot Lotion</string>
+			<string>Fresh Face Mask</string>
+			<string>Hand And Body Soap</string>
+			<string>Hand And Body Soap</string>
+			<string>Shower Gel</string>
+		</array>
+	</dict>
+	<key>Spring Water</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Coco Lotion</string>
+			<string>Breath Of Fresh Air</string>
+			<string>Vanilla Dee-Lite</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Coco Lotion</string>
+			<string>Breath Of Fresh Air</string>
+			<string>Vanilla Dee-Lite</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Hand And Body Lotion</string>
+			<string>Toner Water</string>
+			<string>Body Lotion</string>
+		</array>
+	</dict>
+	<key>St. Johns Wort Extract</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Imperialis</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Imperialis</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Facial Moisturizer</string>
+		</array>
+	</dict>
+	<key>Stearic Acid</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Trichomania</string>
+			<string>Ocean Salt</string>
+			<string>9 To 5</string>
+			<string>Gorgeous</string>
+			<string>Celestial</string>
+			<string>Jungle</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Trichomania</string>
+			<string>Ocean Salt</string>
+			<string>9 To 5</string>
+			<string>Gorgeous</string>
+			<string>Celestial</string>
+			<string>Jungle</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Solid Shampoo Bar</string>
+			<string>Face And Body Scrub</string>
+			<string>Cleansing Lotion</string>
+			<string>Facial Moisturizer</string>
+			<string>Facial Moisturizer</string>
+			<string>Solid Hair Conditioner</string>
+		</array>
+	</dict>
+	<key>Stout</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Cynthia Sylvia Stout</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Cynthia Sylvia Stout</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Shampoo</string>
+		</array>
+	</dict>
+	<key>Sugar</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Sugar Scrub</string>
+			<string>Mint Julips</string>
+			<string>Popcorn</string>
+			<string>Bubblegum</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Sugar Scrub</string>
+			<string>Mint Julips</string>
+			<string>Popcorn</string>
+			<string>Bubblegum</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Body Scrub</string>
+			<string>Lip Scrub</string>
+			<string>Lip Scrub</string>
+			<string>Lip Scrub</string>
+		</array>
+	</dict>
+	<key>Sunflower Petal Extract</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Imperialis</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Imperialis</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Facial Moisturizer</string>
+		</array>
+	</dict>
+	<key>Sweetie Oil</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Enzymion</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Enzymion</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Facial Moisturizer</string>
+		</array>
+	</dict>
+	<key>Synthetic Musk</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Butterball</string>
+			<string>Sex Bomb</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Butterball</string>
+			<string>Sex Bomb</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Bath Bomb</string>
+			<string>Bath Bomb</string>
+		</array>
+	</dict>
+	<key>Tagetes Oil</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Friends With Benefits</string>
+			<string>Mint Julips</string>
+			<string>Angels On Bare Skin</string>
+			<string>Charity Pot</string>
+			<string>Full Of Grace</string>
+			<string>Fair Trade Foot Lotion</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Friends With Benefits</string>
+			<string>Mint Julips</string>
+			<string>Angels On Bare Skin</string>
+			<string>Charity Pot</string>
+			<string>Full Of Grace</string>
+			<string>Fair Trade Foot Lotion</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Massage Bar</string>
+			<string>Lip Scrub</string>
+			<string>Facial Cleanser</string>
+			<string>Hand And Body Lotion</string>
+			<string>Facial Serum</string>
+			<string>Foot Lotion</string>
+		</array>
+	</dict>
+	<key>Talc</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Gold Fun</string>
+			<string>Yellow Fun</string>
+			<string>Red Fun</string>
+			<string>The Greeench</string>
+			<string>Cupcake</string>
+			<string>Light Yellow</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Gold Fun</string>
+			<string>Yellow Fun</string>
+			<string>Red Fun</string>
+			<string>The Greeench</string>
+			<string>Cupcake</string>
+			<string>Light Yellow</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Bubble Bar</string>
+			<string>Bubble Bar</string>
+			<string>Bubble Bar</string>
+			<string>Deodorant Powder</string>
+			<string>Fresh Face Mask</string>
+			<string>Color Supplement</string>
+		</array>
+	</dict>
+	<key>Tamanu Oil</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Vanilla Dee-Lite</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Vanilla Dee-Lite</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Body Lotion</string>
+		</array>
+	</dict>
+	<key>Tangerine Oil</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Ceridwens Cauldron</string>
+			<string>Whipstick</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Ceridwens Cauldron</string>
+			<string>Whipstick</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Bath Melt</string>
+			<string>Lip Balm</string>
+		</array>
+	</dict>
+	<key>Tapioca Flour</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Coconut</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Coconut</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Deodorant Powder</string>
+		</array>
+	</dict>
+	<key>Tea Tree Oil</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Tea Tree Toner Tab</string>
+			<string>T&apos;eo</string>
+			<string>T For Toes</string>
+			<string>Dream Cream</string>
+			<string>The Greeench</string>
+			<string>Cosmetic Warrior</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Tea Tree Toner Tab</string>
+			<string>T&apos;eo</string>
+			<string>T For Toes</string>
+			<string>Dream Cream</string>
+			<string>The Greeench</string>
+			<string>Cosmetic Warrior</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Toner Tab</string>
+			<string>Solid Deodorant Bar</string>
+			<string>Foot Powder</string>
+			<string>Hand And Body Lotion</string>
+			<string>Deodorant Powder</string>
+			<string>Fresh Face Mask</string>
+		</array>
+	</dict>
+	<key>Thyme Oil</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Dirty Body Spray</string>
+			<string>The Greeench</string>
+			<string>French Kiss</string>
+			<string>Dirty Soap</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Dirty Body Spray</string>
+			<string>The Greeench</string>
+			<string>French Kiss</string>
+			<string>Dirty Soap</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Body Spray</string>
+			<string>Deodorant Powder</string>
+			<string>Bubble Bar</string>
+			<string>Hand And Body Soap</string>
+		</array>
+	</dict>
+	<key>Tiger Lily Extract</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Imperialis</string>
+			<string>Lovely Jubblies</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Imperialis</string>
+			<string>Lovely Jubblies</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Facial Moisturizer</string>
+			<string>Breast Cream</string>
+		</array>
+	</dict>
+	<key>Titanium Dioxide</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Believe</string>
+			<string>Light Pink</string>
+			<string>Dark Yellow</string>
+			<string>Light Yellow</string>
+			<string>Glamorous</string>
+			<string>Lifted</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Believe</string>
+			<string>Light Pink</string>
+			<string>Dark Yellow</string>
+			<string>Light Yellow</string>
+			<string>Glamorous</string>
+			<string>Lifted</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Emotional Brilliance</string>
+			<string>Color Supplement</string>
+			<string>Color Supplement</string>
+			<string>Color Supplement</string>
+			<string>Emotional Brilliance</string>
+			<string>Emotional Brilliance</string>
+		</array>
+	</dict>
+	<key>Tonka Absolute</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>25:43</string>
+			<string>Pink</string>
+			<string>Imogen Rose</string>
+			<string>Vanillary</string>
+			<string>Pink Fun</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>25:43</string>
+			<string>Pink</string>
+			<string>Imogen Rose</string>
+			<string>Vanillary</string>
+			<string>Pink Fun</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Gorilla Perfume</string>
+			<string>Bath Bomb</string>
+			<string>Gorilla Perfume</string>
+			<string>Gorilla Perfume</string>
+			<string>Bubble Bar</string>
+		</array>
+	</dict>
+	<key>Toothed Wrack Seaweed</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Skin Shangri-La</string>
+			<string>BB Seaweed</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Skin Shangri-La</string>
+			<string>BB Seaweed</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Facial Moisturizer</string>
+			<string>Fresh Face Mask</string>
+		</array>
+	</dict>
+	<key>Triethanolamine</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Fair Trade Foot Lotion</string>
+			<string>Handy Gurugu</string>
+			<string>Dream Cream</string>
+			<string>Ocean Salt</string>
+			<string>Enchanted Eye Cream</string>
+			<string>Celestial</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Fair Trade Foot Lotion</string>
+			<string>Handy Gurugu</string>
+			<string>Dream Cream</string>
+			<string>Ocean Salt</string>
+			<string>Enchanted Eye Cream</string>
+			<string>Celestial</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Foot Lotion</string>
+			<string>Hand Cream</string>
+			<string>Hand And Body Lotion</string>
+			<string>Face And Body Scrub</string>
+			<string>Eye Cream</string>
+			<string>Facial Moisturizer</string>
+		</array>
+	</dict>
+	<key>Vanilla Absolute</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Vanillary </string>
+			<string>Shimmy Shimmy</string>
+			<string>Heavanilli</string>
+			<string>Yellow Fun</string>
+			<string>Creamy Candy</string>
+			<string>Rock Star</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Vanillary </string>
+			<string>Shimmy Shimmy</string>
+			<string>Heavanilli</string>
+			<string>Yellow Fun</string>
+			<string>Creamy Candy</string>
+			<string>Rock Star</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Gorilla Perfume</string>
+			<string>Body Tint</string>
+			<string>Massage Bar</string>
+			<string>Bubble Bar</string>
+			<string>Bubble Bar</string>
+			<string>Hand And Body Soap</string>
+		</array>
+	</dict>
+	<key>Vetivert Oil</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Imogen Rose</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Imogen Rose</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Gorilla Perfume</string>
+		</array>
+	</dict>
+	<key>Vine Leaf Infusion</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>The Olive Branch</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>The Olive Branch</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Shower Gel</string>
+		</array>
+	</dict>
+	<key>Violet Leaf Absolute</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Daddy-O</string>
+			<string>Ocean Salt</string>
+			<string>Skins Shangri-La</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Daddy-O</string>
+			<string>Ocean Salt</string>
+			<string>Skins Shangri-La</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Shampoo</string>
+			<string>Face And Body Scrub</string>
+			<string>Facial Moisturizer</string>
+		</array>
+	</dict>
+	<key>Walnut Oil</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Ceridwens Cauldron</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Ceridwens Cauldron</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Bath Melt</string>
+		</array>
+	</dict>
+	<key>Water</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Karma Soap</string>
+			<string>Charity Pot</string>
+			<string>Sultana Of Soap</string>
+			<string>The Hair Doctor</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Karma Soap</string>
+			<string>Charity Pot</string>
+			<string>Sultana Of Soap</string>
+			<string>The Hair Doctor</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Hand And Body Soap</string>
+			<string>Hand And Body Lotion</string>
+			<string>Hand And Body Soap</string>
+			<string>Hair Mask</string>
+		</array>
+	</dict>
+	<key>Wheatgerm Oil</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Jasmine &amp; Henna Fluff Ease</string>
+			<string>Gorgeous</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Jasmine &amp; Henna Fluff Ease</string>
+			<string>Gorgeous</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Hair Treatment</string>
+			<string>Facial Moisturizer</string>
+		</array>
+	</dict>
+	<key>White Chocolate</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Mange Too</string>
+			<string>It Started With A Kiss</string>
+			<string>Honey Trap</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Mange Too</string>
+			<string>It Started With A Kiss</string>
+			<string>Honey Trap</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Massage Bar</string>
+			<string>Lip Tint</string>
+			<string>Lip Balm</string>
+		</array>
+	</dict>
+	<key>Whole Oats</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Ceridwens Cauldron</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Ceridwens Cauldron</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Bath Melt</string>
+		</array>
+	</dict>
+	<key>Witch Hazel Extract</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Grease Lightning</string>
+			<string>Vanishing Cream</string>
+			<string>Ayesha</string>
+			<string>Aromaco</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Grease Lightning</string>
+			<string>Vanishing Cream</string>
+			<string>Ayesha</string>
+			<string>Aromaco</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Spot Treatment</string>
+			<string>Facial Moisturizer</string>
+			<string>Fresh Face Mask</string>
+			<string>Solid Deodorant Bar</string>
+		</array>
+	</dict>
+	<key>Yeast Infusion</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Cynthia Sylvia Stout</string>
+			<string>The Hair Doctor</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Cynthia Sylvia Stout</string>
+			<string>The Hair Doctor</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Shampoo</string>
+			<string>Hair Mask</string>
+		</array>
+	</dict>
+	<key>Ylang Ylang Oil</key>
+	<dict>
+		<key>displayName</key>
+		<array>
+			<string>Lust Perfume</string>
+			<string>Butterball</string>
+			<string>Sex Bomb</string>
+			<string>Figs And Leaves</string>
+			<string>Dorothy</string>
+			<string>Charity Pot</string>
+		</array>
+		<key>foundIn</key>
+		<array>
+			<string>Lust Perfume</string>
+			<string>Butterball</string>
+			<string>Sex Bomb</string>
+			<string>Figs And Leaves</string>
+			<string>Dorothy</string>
+			<string>Charity Pot</string>
+		</array>
+		<key>typeLabel</key>
+		<array>
+			<string>Gorilla Perfume</string>
+			<string>Bath Bomb</string>
+			<string>Bath Bomb</string>
+			<string>Hand And Body Soap</string>
+			<string>Bubble Bar</string>
+			<string>Hand And Body Lotion</string>
+		</array>
+	</dict>
+</dict>
+</plist>
